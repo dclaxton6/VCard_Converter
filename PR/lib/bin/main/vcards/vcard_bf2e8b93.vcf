@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Goodnow;Vallie;;;
+EMAIL:lgoodnow2@dyndns.org
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Christie
+RELATED;TYPE=parent;VALUE=text:Leroy
+ORG:Kilback LLC;Accounting
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Croisdall;Tedda;;;
+EMAIL:tcroisdallcb@shinystat.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Lainey
+RELATED;TYPE=parent;VALUE=text:Thorstein
+ORG:Harvey-Rutherford;Research and Development
+END:VCARD

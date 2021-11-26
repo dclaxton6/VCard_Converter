@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Ortega;Charil;;;
+EMAIL:gortegakc@ow.ly
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Fina
+RELATED;TYPE=parent;VALUE=text:Garey
+ORG:Wiza-Stanton;Human Resources
+END:VCARD

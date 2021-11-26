@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Kidstone;Jori;;;
+EMAIL:mkidstone60@wiley.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Morar and Wiza"
+RELATED;TYPE=parent;VALUE=text:Rhoda
+ORG:"Robel;Business Development
+END:VCARD

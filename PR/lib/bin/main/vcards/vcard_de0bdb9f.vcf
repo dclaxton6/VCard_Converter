@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Redmond;Barrie;;;
+EMAIL:mredmondei@google.de
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Minnie
+RELATED;TYPE=parent;VALUE=text:Morgen
+ORG:Koss and Sons;Engineering
+END:VCARD

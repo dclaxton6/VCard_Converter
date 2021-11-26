@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Gino;Skipp;;;
+EMAIL:cgino1w@time.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Kassey
+RELATED;TYPE=parent;VALUE=text:Cash
+ORG:Stark Inc;Engineering
+END:VCARD

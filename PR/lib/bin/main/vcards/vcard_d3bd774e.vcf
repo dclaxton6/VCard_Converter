@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Najera;Barny;;;
+EMAIL:rnajerabd@skype.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Denna
+RELATED;TYPE=parent;VALUE=text:Rand
+ORG:Kovacek and Sons;Support
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Popplewell;Stanton;;;
+EMAIL:apopplewellmr@a8.net
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Emmalynn
+RELATED;TYPE=parent;VALUE=text:Adrien
+ORG:Raynor-Jakubowski;Support
+END:VCARD

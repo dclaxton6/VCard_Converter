@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Swaden;Devinne;;;
+EMAIL:cswadenan@example.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: Abbott and Reinger"
+RELATED;TYPE=parent;VALUE=text:Estell
+ORG:"Abshire;Human Resources
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Oxbrow;Cristine;;;
+EMAIL:soxbrow2l@google.it
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Opal
+RELATED;TYPE=parent;VALUE=text:Sigismondo
+ORG:Runolfsson-Heaney;Support
+END:VCARD

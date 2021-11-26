@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Fancott;Rivkah;;;
+EMAIL:mfancottmz@engadget.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Ledner and Johns"
+RELATED;TYPE=parent;VALUE=text:Kaitlyn
+ORG:"Jacobson;Engineering
+END:VCARD

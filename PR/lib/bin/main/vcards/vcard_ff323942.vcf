@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Feak;Corella;;;
+EMAIL:rfeak9p@wix.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Shawna
+RELATED;TYPE=parent;VALUE=text:Reade
+ORG:Bayer-Thiel;Research and Development
+END:VCARD

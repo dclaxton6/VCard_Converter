@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Dugget;Annabelle;;;
+EMAIL:kduggetfm@independent.co.uk
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Heloise
+RELATED;TYPE=parent;VALUE=text:Kearney
+ORG:Hills-Zboncak;Services
+END:VCARD

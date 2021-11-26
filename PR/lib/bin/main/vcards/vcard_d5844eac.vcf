@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Dennison;Henka;;;
+EMAIL:sdennison9t@loc.gov
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Aufderhar and Wunsch"
+RELATED;TYPE=parent;VALUE=text:Margette
+ORG:"Ullrich;Engineering
+END:VCARD

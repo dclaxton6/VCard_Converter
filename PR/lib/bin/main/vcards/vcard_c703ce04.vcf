@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Wyrall;Rori;;;
+EMAIL:pwyrallnd@elegantthemes.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Janella
+RELATED;TYPE=parent;VALUE=text:Perice
+ORG:Kohler LLC;Accounting
+END:VCARD

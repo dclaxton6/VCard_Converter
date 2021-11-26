@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Bonavia;Guido;;;
+EMAIL:cbonavianp@hibu.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Wehner and Armstrong"
+RELATED;TYPE=parent;VALUE=text:Barrie
+ORG:"Zemlak;Human Resources
+END:VCARD

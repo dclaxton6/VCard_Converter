@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Geekie;Theresa;;;
+EMAIL:tgeekie9e@nyu.edu
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Georgianne
+RELATED;TYPE=parent;VALUE=text:Toby
+ORG:Lueilwitz LLC;Support
+END:VCARD

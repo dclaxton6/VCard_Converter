@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Penman;Randy;;;
+EMAIL:cpenman2q@patch.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Olia
+RELATED;TYPE=parent;VALUE=text:Charles
+ORG:Schultz-Schmitt;Product Management
+END:VCARD

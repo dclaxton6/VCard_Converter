@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Bulteel;Seymour;;;
+EMAIL:jbulteele3@omniture.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Alexine
+RELATED;TYPE=parent;VALUE=text:Juan
+ORG:Lebsack-Beier;Marketing
+END:VCARD

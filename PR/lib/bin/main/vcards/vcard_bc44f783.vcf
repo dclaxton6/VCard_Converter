@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Midlar;Karel;;;
+EMAIL:tmidlarpp@skype.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Kim
+RELATED;TYPE=parent;VALUE=text:Townsend
+ORG:Crona-Thompson;Business Development
+END:VCARD

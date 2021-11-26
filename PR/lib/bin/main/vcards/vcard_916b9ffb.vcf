@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Merrisson;Meredith;;;
+EMAIL:bmerrisson2h@indiegogo.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Hyacinthe
+RELATED;TYPE=parent;VALUE=text:Baron
+ORG:Thiel Group;Legal
+END:VCARD

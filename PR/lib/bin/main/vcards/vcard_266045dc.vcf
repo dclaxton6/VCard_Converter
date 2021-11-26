@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Aspel;Rowney;;;
+EMAIL:gaspel6v@dmoz.org
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Mareah
+RELATED;TYPE=parent;VALUE=text:Gale
+ORG:Koss Inc;Sales
+END:VCARD

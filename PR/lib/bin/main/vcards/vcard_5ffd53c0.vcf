@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Marcus;James;;;
+EMAIL:amarcus2f@nationalgeographic.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Eveline
+RELATED;TYPE=parent;VALUE=text:Addy
+ORG:Kuhlman Group;Support
+END:VCARD

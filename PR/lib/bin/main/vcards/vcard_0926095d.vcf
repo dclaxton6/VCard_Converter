@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Levay;Honey;;;
+EMAIL:slevaybb@adobe.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Mosciski and Stamm"
+RELATED;TYPE=parent;VALUE=text:Millicent
+ORG:"Hahn;Business Development
+END:VCARD

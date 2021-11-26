@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Southby;Sherman;;;
+EMAIL:csouthbyig@photobucket.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Cass
+RELATED;TYPE=parent;VALUE=text:Cleve
+ORG:Hand and Sons;Human Resources
+END:VCARD

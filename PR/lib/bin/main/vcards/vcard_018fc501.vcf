@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Stroband;Nerte;;;
+EMAIL:kstrobandf8@psu.edu
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Lonni
+RELATED;TYPE=parent;VALUE=text:Kimbell
+ORG:Harber-Bayer;Research and Development
+END:VCARD

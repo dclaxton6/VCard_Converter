@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Manger;Josselyn;;;
+EMAIL:wmanger1b@webnode.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Schroeder and Flatley"
+RELATED;TYPE=parent;VALUE=text:Hilde
+ORG:"Bailey;Research and Development
+END:VCARD

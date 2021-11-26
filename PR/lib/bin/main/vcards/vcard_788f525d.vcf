@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Eskriett;Melissa;;;
+EMAIL:heskriettby@scientificamerican.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Gayle
+RELATED;TYPE=parent;VALUE=text:Hank
+ORG:Batz-Considine;Engineering
+END:VCARD

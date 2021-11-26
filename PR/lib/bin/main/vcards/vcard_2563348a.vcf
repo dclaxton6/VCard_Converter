@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:de Bullion;Manda;;;
+EMAIL:pdebulliono8@house.gov
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Edita
+RELATED;TYPE=parent;VALUE=text:Panchito
+ORG:Sipes Inc;Sales
+END:VCARD

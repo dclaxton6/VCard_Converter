@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Finlaison;Boyce;;;
+EMAIL:gfinlaison2r@4shared.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Lesli
+RELATED;TYPE=parent;VALUE=text:Griswold
+ORG:Kessler LLC;Product Management
+END:VCARD

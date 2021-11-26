@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Rastall;Sandra;;;
+EMAIL:drastall58@geocities.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Darline
+RELATED;TYPE=parent;VALUE=text:Dav
+ORG:Reichert and Sons;Business Development
+END:VCARD

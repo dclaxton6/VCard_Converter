@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Gasson;Berti;;;
+EMAIL:ngasson5p@apache.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Maurita
+RELATED;TYPE=parent;VALUE=text:Nigel
+ORG:Schaefer Inc;Services
+END:VCARD

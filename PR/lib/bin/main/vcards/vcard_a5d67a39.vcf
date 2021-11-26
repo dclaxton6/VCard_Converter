@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Frondt;Zara;;;
+EMAIL:dfrondtnx@themeforest.net
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Rivalee
+RELATED;TYPE=parent;VALUE=text:Derick
+ORG:Wilkinson Group;Training
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:O'Cahsedy;Feliks;;;
+EMAIL:zocahsedync@bizjournals.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Becki
+RELATED;TYPE=parent;VALUE=text:Zacharias
+ORG:Heaney LLC;Marketing
+END:VCARD

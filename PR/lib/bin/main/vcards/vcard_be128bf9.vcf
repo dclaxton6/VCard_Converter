@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Asken;Raynor;;;
+EMAIL:paskenad@mozilla.org
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Auer and Friesen"
+RELATED;TYPE=parent;VALUE=text:Lianna
+ORG:"Watsica;Product Management
+END:VCARD

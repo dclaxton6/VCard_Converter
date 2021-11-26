@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Paulillo;Dulcy;;;
+EMAIL:bpaulillonw@gmpg.org
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Emilia
+RELATED;TYPE=parent;VALUE=text:Bennie
+ORG:Hane Group;Research and Development
+END:VCARD

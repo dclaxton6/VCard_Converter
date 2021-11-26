@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Decreuze;Robena;;;
+EMAIL:kdecreuze8x@time.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Melanie
+RELATED;TYPE=parent;VALUE=text:Kahaleel
+ORG:Bode-Gutkowski;Business Development
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Hamments;Verge;;;
+EMAIL:rhammentscx@csmonitor.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Brandice
+RELATED;TYPE=parent;VALUE=text:Riley
+ORG:Flatley-Gottlieb;Legal
+END:VCARD

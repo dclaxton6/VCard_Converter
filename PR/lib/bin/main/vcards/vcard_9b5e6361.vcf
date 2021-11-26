@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Fruchter;Merilyn;;;
+EMAIL:afruchter3p@ed.gov
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Emmaline
+RELATED;TYPE=parent;VALUE=text:Angus
+ORG:Stamm-Wuckert;Marketing
+END:VCARD

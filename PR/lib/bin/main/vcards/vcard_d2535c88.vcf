@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Claiton;Jaine;;;
+EMAIL:wclaiton7x@nytimes.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Athene
+RELATED;TYPE=parent;VALUE=text:Wilbert
+ORG:Senger Inc;Support
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Greenlies;Eliza;;;
+EMAIL:vgreenlies9c@newyorker.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Modesty
+RELATED;TYPE=parent;VALUE=text:Vince
+ORG:Beier Group;Research and Development
+END:VCARD

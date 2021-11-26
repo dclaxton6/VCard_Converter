@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Biffin;Tann;;;
+EMAIL:fbiffinn1@plala.or.jp
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Stephine
+RELATED;TYPE=parent;VALUE=text:Frasquito
+ORG:Murray-Fisher;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Vawton;Brear;;;
+EMAIL:tvawtonbe@arstechnica.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Bergstrom and Gutkowski"
+RELATED;TYPE=parent;VALUE=text:Dory
+ORG:"McKenzie;Marketing
+END:VCARD

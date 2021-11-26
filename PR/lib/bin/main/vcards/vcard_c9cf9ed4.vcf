@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Pohls;Rabbi;;;
+EMAIL:apohlsmq@fc2.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Aviva
+RELATED;TYPE=parent;VALUE=text:Avrom
+ORG:Mohr Inc;Human Resources
+END:VCARD

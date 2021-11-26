@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Bownd;Hershel;;;
+EMAIL:jbowndak@friendfeed.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Lura
+RELATED;TYPE=parent;VALUE=text:Jarid
+ORG:Wilderman Inc;Product Management
+END:VCARD

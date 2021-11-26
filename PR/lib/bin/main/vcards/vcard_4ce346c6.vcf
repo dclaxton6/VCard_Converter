@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Phlippi;Donica;;;
+EMAIL:rphlippi69@buzzfeed.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Zarah
+RELATED;TYPE=parent;VALUE=text:Roy
+ORG:Harris Group;Support
+END:VCARD

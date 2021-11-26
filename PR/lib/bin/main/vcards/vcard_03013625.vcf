@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Wellen;Ivette;;;
+EMAIL:wwellen7@oakley.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Saraann
+RELATED;TYPE=parent;VALUE=text:Wilhelm
+ORG:Gerhold-Stoltenberg;Training
+END:VCARD

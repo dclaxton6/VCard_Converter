@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Dyball;Hannie;;;
+EMAIL:ndyball2d@miibeian.gov.cn
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Kitti
+RELATED;TYPE=parent;VALUE=text:Nilson
+ORG:Schimmel Group;Human Resources
+END:VCARD

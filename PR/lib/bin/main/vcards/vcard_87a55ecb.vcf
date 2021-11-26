@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Moan;Baxter;;;
+EMAIL:amoano0@angelfire.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Angel
+RELATED;TYPE=parent;VALUE=text:Allen
+ORG:Ebert LLC;Services
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Delagua;Goddart;;;
+EMAIL:wdelagua6h@yolasite.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Estrellita
+RELATED;TYPE=parent;VALUE=text:Win
+ORG:Torp Group;Engineering
+END:VCARD

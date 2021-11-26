@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Harnott;Maryl;;;
+EMAIL:mharnott55@sciencedaily.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Harriott
+RELATED;TYPE=parent;VALUE=text:Mortimer
+ORG:Barrows and Sons;Research and Development
+END:VCARD

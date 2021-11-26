@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Caddens;Maia;;;
+EMAIL:kcaddensqc@smh.com.au
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Lissie
+RELATED;TYPE=parent;VALUE=text:Krisha
+ORG:Bednar and Sons;Sales
+END:VCARD

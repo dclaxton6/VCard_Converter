@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Coad;Vicky;;;
+EMAIL:gcoad89@kickstarter.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Effertz and Hilpert"
+RELATED;TYPE=parent;VALUE=text:Korie
+ORG:"Krajcik;Marketing
+END:VCARD

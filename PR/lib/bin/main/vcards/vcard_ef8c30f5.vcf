@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Maseyk;Elspeth;;;
+EMAIL:bmaseykf5@answers.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Andriette
+RELATED;TYPE=parent;VALUE=text:Bordy
+ORG:Goldner-Kessler;Legal
+END:VCARD

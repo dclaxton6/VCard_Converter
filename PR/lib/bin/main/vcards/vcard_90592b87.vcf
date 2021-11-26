@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Garlicke;Barrie;;;
+EMAIL:fgarlickemo@soundcloud.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Elvera
+RELATED;TYPE=parent;VALUE=text:Fabio
+ORG:Swaniawski-Ernser;Research and Development
+END:VCARD

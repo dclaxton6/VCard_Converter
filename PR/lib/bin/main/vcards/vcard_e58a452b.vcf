@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Smythin;Jessie;;;
+EMAIL:ysmythin61@cmu.edu
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Nicoline
+RELATED;TYPE=parent;VALUE=text:Yehudi
+ORG:Harvey-Gulgowski;Sales
+END:VCARD

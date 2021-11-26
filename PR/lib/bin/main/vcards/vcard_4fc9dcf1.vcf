@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bullcock;Darwin;;;
+EMAIL:jbullcock42@cbslocal.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Sauer and Auer"
+RELATED;TYPE=parent;VALUE=text:Hyacinthe
+ORG:"Legros;Services
+END:VCARD

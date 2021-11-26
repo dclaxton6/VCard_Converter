@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Rossetti;Audre;;;
+EMAIL:trossetti57@ca.gov
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Nike
+RELATED;TYPE=parent;VALUE=text:Tully
+ORG:Brown-Shields;Training
+END:VCARD

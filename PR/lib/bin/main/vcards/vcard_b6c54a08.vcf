@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Bixley;Gabie;;;
+EMAIL:ebixleyb4@vkontakte.ru
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Raphaela
+RELATED;TYPE=parent;VALUE=text:Emerson
+ORG:Sanford Group;Engineering
+END:VCARD

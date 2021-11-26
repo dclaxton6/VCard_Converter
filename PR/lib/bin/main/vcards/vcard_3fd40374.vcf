@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Vannini;Inger;;;
+EMAIL:svanninibh@privacy.gov.au
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Vikki
+RELATED;TYPE=parent;VALUE=text:Skyler
+ORG:Borer Inc;Services
+END:VCARD

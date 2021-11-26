@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Kneesha;Regen;;;
+EMAIL:okneeshar3@cornell.edu
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Cristina
+RELATED;TYPE=parent;VALUE=text:Odie
+ORG:Murphy-Hilpert;Legal
+END:VCARD

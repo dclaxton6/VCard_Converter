@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Lambot;Austin;;;
+EMAIL:dlambot8c@sciencedirect.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Pierette
+RELATED;TYPE=parent;VALUE=text:Delaney
+ORG:Wehner-Boehm;Business Development
+END:VCARD

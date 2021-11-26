@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Stienton;Ebba;;;
+EMAIL:sstientonm1@thetimes.co.uk
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Clarey
+RELATED;TYPE=parent;VALUE=text:Scottie
+ORG:Walter-Sawayn;Training
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Moston;Kati;;;
+EMAIL:gmostone9@earthlink.net
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Renata
+RELATED;TYPE=parent;VALUE=text:Giraldo
+ORG:Fahey and Sons;Sales
+END:VCARD

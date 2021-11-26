@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Featenby;Michaeline;;;
+EMAIL:afeatenby19@guardian.co.uk
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Collins and Kling"
+RELATED;TYPE=parent;VALUE=text:Beverley
+ORG:"Stanton;Product Management
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Gorham;Vic;;;
+EMAIL:bgorhamcr@wordpress.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Maegan
+RELATED;TYPE=parent;VALUE=text:Barrett
+ORG:Kessler-Koss;Human Resources
+END:VCARD

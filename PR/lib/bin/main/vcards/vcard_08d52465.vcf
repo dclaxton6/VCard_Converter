@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Discombe;Lurline;;;
+EMAIL:ddiscombe81@is.gd
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Elvera
+RELATED;TYPE=parent;VALUE=text:Dorie
+ORG:Johnson LLC;Marketing
+END:VCARD

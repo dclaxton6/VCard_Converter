@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Spafford;Cobb;;;
+EMAIL:cspafford94@blogger.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Goldina
+RELATED;TYPE=parent;VALUE=text:Chev
+ORG:Doyle-Koelpin;Sales
+END:VCARD

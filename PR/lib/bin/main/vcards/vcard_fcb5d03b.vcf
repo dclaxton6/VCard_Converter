@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Crayton;Tremain;;;
+EMAIL:dcraytonij@hao123.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Darcey
+RELATED;TYPE=parent;VALUE=text:Dannel
+ORG:Mosciski-Lang;Support
+END:VCARD

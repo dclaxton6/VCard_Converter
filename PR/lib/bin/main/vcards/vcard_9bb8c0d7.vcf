@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Feeney;Mirabel;;;
+EMAIL:tfeeneyo@ovh.net
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Vandervort and Funk"
+RELATED;TYPE=parent;VALUE=text:Valeria
+ORG:"Towne;Human Resources
+END:VCARD

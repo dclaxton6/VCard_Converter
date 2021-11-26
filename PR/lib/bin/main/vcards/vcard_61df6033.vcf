@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Abbet;Pia;;;
+EMAIL:wabbet43@squarespace.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Janie
+RELATED;TYPE=parent;VALUE=text:Wheeler
+ORG:Hackett-Denesik;Support
+END:VCARD

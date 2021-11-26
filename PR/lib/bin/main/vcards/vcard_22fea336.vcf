@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Hyne;Josephine;;;
+EMAIL:bhyne83@youtu.be
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Wuckert and Heidenreich"
+RELATED;TYPE=parent;VALUE=text:Rosaline
+ORG:"Kuphal;Accounting
+END:VCARD

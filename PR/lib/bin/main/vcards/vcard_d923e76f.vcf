@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Abbes;Corny;;;
+EMAIL:yabbesdb@npr.org
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Kelley
+RELATED;TYPE=parent;VALUE=text:Yard
+ORG:Cummings-Shanahan;Accounting
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Boast;Lanni;;;
+EMAIL:rboast9d@bravesites.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Kathye
+RELATED;TYPE=parent;VALUE=text:Reginald
+ORG:McLaughlin LLC;Business Development
+END:VCARD

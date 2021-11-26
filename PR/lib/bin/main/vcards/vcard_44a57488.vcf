@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Reasce;Phebe;;;
+EMAIL:rreasce3j@list-manage.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Greta
+RELATED;TYPE=parent;VALUE=text:Richy
+ORG:Hamill Inc;Human Resources
+END:VCARD

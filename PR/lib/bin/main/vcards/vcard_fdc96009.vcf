@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Bogie;Modesta;;;
+EMAIL:dbogie47@chron.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Lindgren and Rippin"
+RELATED;TYPE=parent;VALUE=text:Cyndia
+ORG:"Anderson;Training
+END:VCARD

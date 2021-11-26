@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Garfield;Kristofer;;;
+EMAIL:cgarfieldco@plala.or.jp
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Alyce
+RELATED;TYPE=parent;VALUE=text:Clemens
+ORG:Grant and Sons;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Gascoine;Alexei;;;
+EMAIL:pgascoinekh@blinklist.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Lang and Dietrich"
+RELATED;TYPE=parent;VALUE=text:Maia
+ORG:"Emmerich;Training
+END:VCARD

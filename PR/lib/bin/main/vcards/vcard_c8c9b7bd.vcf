@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Pollock;Nye;;;
+EMAIL:apollockb5@salon.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: McGlynn and Effertz"
+RELATED;TYPE=parent;VALUE=text:Corrinne
+ORG:"Erdman;Product Management
+END:VCARD

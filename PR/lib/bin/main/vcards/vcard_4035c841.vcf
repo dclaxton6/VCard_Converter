@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Chamberlayne;Marsh;;;
+EMAIL:hchamberlayne41@ask.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Armstrong and Stoltenberg"
+RELATED;TYPE=parent;VALUE=text:Modesty
+ORG:"Kling;Business Development
+END:VCARD

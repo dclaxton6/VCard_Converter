@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Stott;Neilla;;;
+EMAIL:fstottjk@unblog.fr
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Eleanora
+RELATED;TYPE=parent;VALUE=text:Freemon
+ORG:Little-Hodkiewicz;Services
+END:VCARD

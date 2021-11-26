@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Corbould;Karolina;;;
+EMAIL:dcorbould7i@umn.edu
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Herzog and Toy"
+RELATED;TYPE=parent;VALUE=text:Bee
+ORG:"Grimes;Research and Development
+END:VCARD

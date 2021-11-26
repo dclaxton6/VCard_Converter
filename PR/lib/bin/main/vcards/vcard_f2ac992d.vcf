@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Timbrell;Zed;;;
+EMAIL:stimbrellkb@icio.us
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Milzie
+RELATED;TYPE=parent;VALUE=text:Sonny
+ORG:Lemke LLC;Training
+END:VCARD

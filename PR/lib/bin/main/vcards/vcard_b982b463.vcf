@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Bowfin;Clea;;;
+EMAIL:bbowfinpb@google.com.au
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Milissent
+RELATED;TYPE=parent;VALUE=text:Bev
+ORG:Auer LLC;Research and Development
+END:VCARD

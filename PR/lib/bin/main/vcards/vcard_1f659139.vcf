@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Carleman;Granny;;;
+EMAIL:jcarleman24@webnode.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Nedi
+RELATED;TYPE=parent;VALUE=text:Jonah
+ORG:Hettinger and Sons;Research and Development
+END:VCARD

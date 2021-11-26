@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Cattle;Benny;;;
+EMAIL:rcattle4s@creativecommons.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Ruth
+RELATED;TYPE=parent;VALUE=text:Rickey
+ORG:Maggio-Bauch;Legal
+END:VCARD

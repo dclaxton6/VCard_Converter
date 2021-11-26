@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Deans;Gerhardine;;;
+EMAIL:cdeansb6@abc.net.au
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Maddi
+RELATED;TYPE=parent;VALUE=text:Care
+ORG:Frami-Hyatt;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Rabbatts;Dick;;;
+EMAIL:srabbattsn9@mozilla.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Jacinda
+RELATED;TYPE=parent;VALUE=text:Simeon
+ORG:Hills-Kautzer;Business Development
+END:VCARD

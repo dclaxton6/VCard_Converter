@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Balmadier;Ad;;;
+EMAIL:kbalmadieri8@bluehost.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Wiza and Simonis"
+RELATED;TYPE=parent;VALUE=text:Nettie
+ORG:"Gerlach;Accounting
+END:VCARD

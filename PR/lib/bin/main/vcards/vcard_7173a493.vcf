@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Sepey;Aguistin;;;
+EMAIL:msepeygf@pcworld.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Marita
+RELATED;TYPE=parent;VALUE=text:Mick
+ORG:Dooley Group;Marketing
+END:VCARD

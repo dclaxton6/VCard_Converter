@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Last;Denice;;;
+EMAIL:blastkm@netvibes.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Alexina
+RELATED;TYPE=parent;VALUE=text:Broddie
+ORG:Beatty-Rutherford;Sales
+END:VCARD

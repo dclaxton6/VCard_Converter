@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Jantet;Skylar;;;
+EMAIL:ejantetp4@springer.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Vere
+RELATED;TYPE=parent;VALUE=text:Eddie
+ORG:Cummings and Sons;Human Resources
+END:VCARD

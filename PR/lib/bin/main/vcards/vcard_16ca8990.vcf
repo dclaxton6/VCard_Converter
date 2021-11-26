@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Allcott;Lee;;;
+EMAIL:ballcottda@zimbio.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Isabella
+RELATED;TYPE=parent;VALUE=text:Banky
+ORG:Waelchi Inc;Training
+END:VCARD

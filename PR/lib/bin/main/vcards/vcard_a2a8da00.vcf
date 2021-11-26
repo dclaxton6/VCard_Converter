@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Titterell;Dorice;;;
+EMAIL:atitterelln4@smh.com.au
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Alejandrina
+RELATED;TYPE=parent;VALUE=text:Armando
+ORG:Bauch-Roberts;Marketing
+END:VCARD

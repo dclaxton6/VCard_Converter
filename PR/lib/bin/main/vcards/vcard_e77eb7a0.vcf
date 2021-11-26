@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Wicken;Eli;;;
+EMAIL:qwickenfi@vk.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Ivett
+RELATED;TYPE=parent;VALUE=text:Quincy
+ORG:Nienow-Gerlach;Engineering
+END:VCARD

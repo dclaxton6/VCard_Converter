@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Beeke;Tresa;;;
+EMAIL:fbeekerc@guardian.co.uk
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Maurise
+RELATED;TYPE=parent;VALUE=text:Faulkner
+ORG:Hagenes Group;Legal
+END:VCARD

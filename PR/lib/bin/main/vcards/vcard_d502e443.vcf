@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Bousler;Venita;;;
+EMAIL:rbouslerhf@aol.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Catriona
+RELATED;TYPE=parent;VALUE=text:Ronnie
+ORG:Stehr-Johnston;Services
+END:VCARD

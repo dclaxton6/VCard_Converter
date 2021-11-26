@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Elford;Carola;;;
+EMAIL:kelfordlo@hao123.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Hammes and Auer"
+RELATED;TYPE=parent;VALUE=text:Margi
+ORG:"Jenkins;Human Resources
+END:VCARD

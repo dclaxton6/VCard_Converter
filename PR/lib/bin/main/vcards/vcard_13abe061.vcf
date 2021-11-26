@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Batchelder;Lonnard;;;
+EMAIL:wbatchelderpn@ucoz.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Xaviera
+RELATED;TYPE=parent;VALUE=text:Warren
+ORG:Crona Group;Engineering
+END:VCARD

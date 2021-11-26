@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:MacTerlagh;Lalo;;;
+EMAIL:emacterlagh5v@bbc.co.uk
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Melisent
+RELATED;TYPE=parent;VALUE=text:Em
+ORG:Runolfsdottir-Von;Support
+END:VCARD

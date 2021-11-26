@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Perrelle;Teri;;;
+EMAIL:mperrelle6a@arizona.edu
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Francisca
+RELATED;TYPE=parent;VALUE=text:Mikael
+ORG:Kuhlman-Hegmann;Engineering
+END:VCARD

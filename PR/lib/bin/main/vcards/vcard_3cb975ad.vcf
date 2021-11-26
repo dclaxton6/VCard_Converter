@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Vivien;Arney;;;
+EMAIL:evivien1h@washington.edu
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Kesley
+RELATED;TYPE=parent;VALUE=text:Ellswerth
+ORG:Grant Group;Engineering
+END:VCARD

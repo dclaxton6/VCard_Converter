@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Kennan;Denny;;;
+EMAIL:ckennanbg@chicagotribune.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Katrina
+RELATED;TYPE=parent;VALUE=text:Cris
+ORG:Gutmann Group;Services
+END:VCARD

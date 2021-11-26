@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Rangle;Lukas;;;
+EMAIL:sranglek1@chron.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: Moen and Baumbach"
+RELATED;TYPE=parent;VALUE=text:Davine
+ORG:"Abshire;Support
+END:VCARD

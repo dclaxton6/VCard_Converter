@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Napoleon;Hermione;;;
+EMAIL:anapoleonn6@com.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Heaney and Kulas"
+RELATED;TYPE=parent;VALUE=text:Deb
+ORG:"Nikolaus;Support
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Mapson;Alair;;;
+EMAIL:mmapson86@bbb.org
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Corinna
+RELATED;TYPE=parent;VALUE=text:Mikel
+ORG:Fadel LLC;Services
+END:VCARD

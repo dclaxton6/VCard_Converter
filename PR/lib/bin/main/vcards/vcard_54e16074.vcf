@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Eckert;Silvain;;;
+EMAIL:veckert7y@cafepress.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Vivienne
+RELATED;TYPE=parent;VALUE=text:Vasily
+ORG:Smith-Schaden;Sales
+END:VCARD

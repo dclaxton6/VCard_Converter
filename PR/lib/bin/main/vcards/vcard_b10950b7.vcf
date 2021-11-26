@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Order;Saundra;;;
+EMAIL:sorderiz@chicagotribune.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Brigitta
+RELATED;TYPE=parent;VALUE=text:Salim
+ORG:Mann-Rempel;Engineering
+END:VCARD

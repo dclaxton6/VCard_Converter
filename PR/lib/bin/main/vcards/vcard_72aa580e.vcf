@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Maughan;Granny;;;
+EMAIL:fmaughan7d@mozilla.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Natty
+RELATED;TYPE=parent;VALUE=text:Finley
+ORG:Gutmann and Sons;Services
+END:VCARD

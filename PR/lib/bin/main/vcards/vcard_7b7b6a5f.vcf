@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Mattes;Shalne;;;
+EMAIL:wmattesif@newsvine.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Jackquelin
+RELATED;TYPE=parent;VALUE=text:Westleigh
+ORG:Heaney LLC;Support
+END:VCARD

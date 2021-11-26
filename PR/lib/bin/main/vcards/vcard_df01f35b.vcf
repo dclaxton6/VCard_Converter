@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Jagels;Der;;;
+EMAIL:rjagels77@mozilla.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Benoite
+RELATED;TYPE=parent;VALUE=text:Ramsey
+ORG:Mante LLC;Product Management
+END:VCARD

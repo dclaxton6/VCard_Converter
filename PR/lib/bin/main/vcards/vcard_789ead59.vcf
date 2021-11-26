@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Borland;Godiva;;;
+EMAIL:tborland3i@ovh.net
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Laural
+RELATED;TYPE=parent;VALUE=text:Tallie
+ORG:Stoltenberg Inc;Legal
+END:VCARD

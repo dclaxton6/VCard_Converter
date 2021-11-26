@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Bramer;Merv;;;
+EMAIL:nbramerdc@google.de
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Sporer and Little"
+RELATED;TYPE=parent;VALUE=text:Silva
+ORG:"Rosenbaum;Business Development
+END:VCARD

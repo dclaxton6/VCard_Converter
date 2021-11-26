@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Rosell;Garvin;;;
+EMAIL:prosell2i@go.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Hegmann and Kilback"
+RELATED;TYPE=parent;VALUE=text:Alvinia
+ORG:"Stehr;Legal
+END:VCARD

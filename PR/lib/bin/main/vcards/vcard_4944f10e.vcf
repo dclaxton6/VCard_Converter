@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Brickwood;Lucia;;;
+EMAIL:hbrickwoode1@flavors.me
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Schowalter and Rippin"
+RELATED;TYPE=parent;VALUE=text:Oona
+ORG:"Wisozk;Marketing
+END:VCARD

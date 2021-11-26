@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Pope;Creighton;;;
+EMAIL:apope46@discovery.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Kilback and Hermiston"
+RELATED;TYPE=parent;VALUE=text:Wandis
+ORG:"Bergnaum;Product Management
+END:VCARD

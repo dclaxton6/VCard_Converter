@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Cattenach;Cornelia;;;
+EMAIL:pcattenach11@arizona.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Kanya
+RELATED;TYPE=parent;VALUE=text:Patrick
+ORG:Gleichner-Armstrong;Services
+END:VCARD

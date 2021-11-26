@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Isacsson;Alyse;;;
+EMAIL:wisacssonq6@delicious.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Leonore
+RELATED;TYPE=parent;VALUE=text:Willard
+ORG:Armstrong-Kessler;Services
+END:VCARD

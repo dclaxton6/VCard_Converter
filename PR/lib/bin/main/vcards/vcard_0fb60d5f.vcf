@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Costar;Ephrayim;;;
+EMAIL:wcostar6r@tripadvisor.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Wuckert and Herzog"
+RELATED;TYPE=parent;VALUE=text:Sarina
+ORG:"Wilkinson;Accounting
+END:VCARD

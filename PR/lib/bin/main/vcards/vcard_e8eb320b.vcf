@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Sidry;Benedetto;;;
+EMAIL:wsidrycj@cmu.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Kirby
+RELATED;TYPE=parent;VALUE=text:Wilmer
+ORG:Robel LLC;Training
+END:VCARD

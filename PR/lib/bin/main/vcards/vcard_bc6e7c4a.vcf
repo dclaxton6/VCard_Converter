@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Dunnet;Shayna;;;
+EMAIL:odunnet8a@over-blog.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Thomasine
+RELATED;TYPE=parent;VALUE=text:Omar
+ORG:Dietrich and Sons;Marketing
+END:VCARD

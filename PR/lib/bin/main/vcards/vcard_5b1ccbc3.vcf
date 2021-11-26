@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Quincee;Alys;;;
+EMAIL:vquincee2b@amazon.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Gigi
+RELATED;TYPE=parent;VALUE=text:Vaughan
+ORG:Price-Auer;Research and Development
+END:VCARD

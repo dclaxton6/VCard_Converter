@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Iorizzi;Vallie;;;
+EMAIL:kiorizzia7@mlb.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: West and Ondricka"
+RELATED;TYPE=parent;VALUE=text:Gilligan
+ORG:"Murray;Research and Development
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Apps;Misha;;;
+EMAIL:bapps2t@storify.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Marcelline
+RELATED;TYPE=parent;VALUE=text:Baird
+ORG:Howell-Ullrich;Accounting
+END:VCARD

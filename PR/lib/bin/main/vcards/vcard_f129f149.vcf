@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Baudou;Theodosia;;;
+EMAIL:bbaudou90@scribd.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Spencer and Green"
+RELATED;TYPE=parent;VALUE=text:Catlee
+ORG:"Anderson;Research and Development
+END:VCARD

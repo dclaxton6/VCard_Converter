@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Salliere;Allene;;;
+EMAIL:vsallierem2@51.la
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Annaliese
+RELATED;TYPE=parent;VALUE=text:Vernen
+ORG:Cole Group;Human Resources
+END:VCARD

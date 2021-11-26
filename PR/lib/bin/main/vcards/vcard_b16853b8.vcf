@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Ilden;Dino;;;
+EMAIL:dildenh6@furl.net
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Gwenny
+RELATED;TYPE=parent;VALUE=text:Dalston
+ORG:Leuschke Inc;Accounting
+END:VCARD

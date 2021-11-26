@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Dowsing;Jillana;;;
+EMAIL:jdowsingkr@wsj.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Buckridge and Mante"
+RELATED;TYPE=parent;VALUE=text:Lusa
+ORG:"Cole;Engineering
+END:VCARD

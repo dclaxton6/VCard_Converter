@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Geal;Julian;;;
+EMAIL:bgealkq@wikimedia.org
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Elvira
+RELATED;TYPE=parent;VALUE=text:Burlie
+ORG:Murphy and Sons;Marketing
+END:VCARD

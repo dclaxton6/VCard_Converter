@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Matzkaitis;Gilli;;;
+EMAIL:fmatzkaitisn7@bandcamp.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Doreen
+RELATED;TYPE=parent;VALUE=text:Franky
+ORG:Abbott Inc;Training
+END:VCARD

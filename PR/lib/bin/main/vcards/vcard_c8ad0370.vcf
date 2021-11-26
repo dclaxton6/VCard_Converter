@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Elland;Sonny;;;
+EMAIL:relland3u@barnesandnoble.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Osinski and Murray"
+RELATED;TYPE=parent;VALUE=text:Ami
+ORG:"Wilkinson;Engineering
+END:VCARD

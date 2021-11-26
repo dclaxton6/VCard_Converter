@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Rack;Nial;;;
+EMAIL:lrackq1@dailymotion.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Nariko
+RELATED;TYPE=parent;VALUE=text:Lazar
+ORG:Mertz-Robel;Human Resources
+END:VCARD

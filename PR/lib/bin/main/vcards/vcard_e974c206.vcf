@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Franciotti;Ravid;;;
+EMAIL:ufranciotti6b@wunderground.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Vyky
+RELATED;TYPE=parent;VALUE=text:Umberto
+ORG:Rohan-Thiel;Services
+END:VCARD

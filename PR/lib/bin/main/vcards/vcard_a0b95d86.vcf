@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Annes;Willi;;;
+EMAIL:gannesfz@twitter.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Georgeanna
+RELATED;TYPE=parent;VALUE=text:Giffer
+ORG:Gutkowski-Kris;Accounting
+END:VCARD

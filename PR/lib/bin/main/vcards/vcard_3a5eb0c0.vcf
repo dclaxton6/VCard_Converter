@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:McGillacoell;Nadeen;;;
+EMAIL:mmcgillacoellkk@cbc.ca
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Cassey
+RELATED;TYPE=parent;VALUE=text:Merill
+ORG:Nicolas-Simonis;Sales
+END:VCARD

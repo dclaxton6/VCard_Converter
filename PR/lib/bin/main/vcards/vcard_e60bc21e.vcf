@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Crumpton;Kinny;;;
+EMAIL:hcrumpton2e@about.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Adeline
+RELATED;TYPE=parent;VALUE=text:Hilarius
+ORG:Stamm-D'Amore;Marketing
+END:VCARD

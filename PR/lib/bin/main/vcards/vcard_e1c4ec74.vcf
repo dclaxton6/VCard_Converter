@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Collacombe;Pierce;;;
+EMAIL:wcollacombeoi@twitter.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Vivian
+RELATED;TYPE=parent;VALUE=text:Wallie
+ORG:Wisoky-Gibson;Services
+END:VCARD

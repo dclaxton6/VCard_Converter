@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Bentzen;Emlynn;;;
+EMAIL:obentzenm7@trellian.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Shawna
+RELATED;TYPE=parent;VALUE=text:Osgood
+ORG:Quitzon-Koelpin;Product Management
+END:VCARD

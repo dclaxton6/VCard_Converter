@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bick;Shell;;;
+EMAIL:abickcp@chronoengine.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Rowe and Kertzmann"
+RELATED;TYPE=parent;VALUE=text:Margaretha
+ORG:"Swaniawski;Training
+END:VCARD

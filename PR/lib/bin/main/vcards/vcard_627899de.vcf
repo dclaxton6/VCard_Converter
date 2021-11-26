@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Kik;Valerye;;;
+EMAIL:kkik5g@cisco.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Sarina
+RELATED;TYPE=parent;VALUE=text:Kain
+ORG:Huel-Ullrich;Research and Development
+END:VCARD

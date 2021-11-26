@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Casse;Celestyna;;;
+EMAIL:mcassedi@europa.eu
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Monique
+RELATED;TYPE=parent;VALUE=text:Martin
+ORG:Schoen-Thompson;Research and Development
+END:VCARD

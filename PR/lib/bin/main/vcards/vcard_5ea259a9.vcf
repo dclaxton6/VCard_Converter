@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Khosa;Holly;;;
+EMAIL:ckhosa7k@arizona.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Dicki and Zemlak"
+RELATED;TYPE=parent;VALUE=text:Theodosia
+ORG:"Mante;Research and Development
+END:VCARD

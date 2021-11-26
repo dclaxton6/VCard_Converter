@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Hempel;Nyssa;;;
+EMAIL:ehempel98@blinklist.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Maryjo
+RELATED;TYPE=parent;VALUE=text:Emmy
+ORG:Morissette LLC;Support
+END:VCARD

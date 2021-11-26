@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Gask;Alexia;;;
+EMAIL:hgaskrd@google.it
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Haleigh
+RELATED;TYPE=parent;VALUE=text:Harry
+ORG:Stracke-Larson;Engineering
+END:VCARD

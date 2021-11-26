@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Redolfi;Anette;;;
+EMAIL:eredolfih0@slideshare.net
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Jana
+RELATED;TYPE=parent;VALUE=text:Edouard
+ORG:Prohaska-Green;Sales
+END:VCARD

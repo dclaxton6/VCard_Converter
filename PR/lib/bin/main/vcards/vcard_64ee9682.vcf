@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Aymer;Grantley;;;
+EMAIL:naymerew@cyberchimps.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Luettgen and Donnelly"
+RELATED;TYPE=parent;VALUE=text:Juanita
+ORG:"Collier;Accounting
+END:VCARD

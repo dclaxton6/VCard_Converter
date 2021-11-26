@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Dearle-Palser;Winston;;;
+EMAIL:kdearlepalserhj@nbcnews.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Melita
+RELATED;TYPE=parent;VALUE=text:Keane
+ORG:Kertzmann LLC;Support
+END:VCARD

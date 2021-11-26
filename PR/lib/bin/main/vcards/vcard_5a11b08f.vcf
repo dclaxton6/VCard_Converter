@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Doole;Estelle;;;
+EMAIL:rdoole78@google.co.uk
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Rebe
+RELATED;TYPE=parent;VALUE=text:Rutherford
+ORG:Parisian LLC;Sales
+END:VCARD

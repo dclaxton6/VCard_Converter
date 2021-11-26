@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Gleed;Bobbee;;;
+EMAIL:rgleedb8@google.nl
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Jewel
+RELATED;TYPE=parent;VALUE=text:Reuven
+ORG:Harber and Sons;Research and Development
+END:VCARD

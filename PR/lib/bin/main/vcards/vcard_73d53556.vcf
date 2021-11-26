@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Berthod;Carole;;;
+EMAIL:nberthod9o@wordpress.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Brandais
+RELATED;TYPE=parent;VALUE=text:Nilson
+ORG:Breitenberg LLC;Business Development
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bison;Gertrudis;;;
+EMAIL:rbison9q@harvard.edu
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Zulauf and Bode"
+RELATED;TYPE=parent;VALUE=text:Allx
+ORG:"Towne;Business Development
+END:VCARD

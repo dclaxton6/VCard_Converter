@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Benediktsson;Lindsey;;;
+EMAIL:sbenediktssonky@timesonline.co.uk
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Magdalene
+RELATED;TYPE=parent;VALUE=text:Salvidor
+ORG:O'Conner-Barrows;Business Development
+END:VCARD

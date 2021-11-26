@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Siddele;Redd;;;
+EMAIL:gsiddelejc@marketwatch.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Leah
+RELATED;TYPE=parent;VALUE=text:Garv
+ORG:Kihn LLC;Business Development
+END:VCARD

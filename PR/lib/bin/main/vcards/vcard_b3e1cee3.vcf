@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Roy;Pamela;;;
+EMAIL:hroyhr@networkadvertising.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Fredra
+RELATED;TYPE=parent;VALUE=text:Holt
+ORG:Reilly-Blanda;Legal
+END:VCARD

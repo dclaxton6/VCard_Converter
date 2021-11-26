@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Romeo;Mattias;;;
+EMAIL:cromeob7@creativecommons.org
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Rosita
+RELATED;TYPE=parent;VALUE=text:Clerc
+ORG:Berge and Sons;Sales
+END:VCARD

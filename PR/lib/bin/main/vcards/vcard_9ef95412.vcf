@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Grafham;Ira;;;
+EMAIL:jgrafham33@google.com.hk
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Kris and Hartmann"
+RELATED;TYPE=parent;VALUE=text:Giana
+ORG:"Hessel;Marketing
+END:VCARD

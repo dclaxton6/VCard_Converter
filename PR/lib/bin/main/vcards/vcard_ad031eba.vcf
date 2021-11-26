@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Schimaschke;Kelly;;;
+EMAIL:dschimaschkec5@vkontakte.ru
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Charis
+RELATED;TYPE=parent;VALUE=text:Damiano
+ORG:Gaylord-Hegmann;Training
+END:VCARD

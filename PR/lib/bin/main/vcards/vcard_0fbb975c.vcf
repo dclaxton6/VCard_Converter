@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Shillaber;Charlean;;;
+EMAIL:nshillabera6@cbc.ca
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Thompson and Roob"
+RELATED;TYPE=parent;VALUE=text:Mariana
+ORG:"Gaylord;Product Management
+END:VCARD

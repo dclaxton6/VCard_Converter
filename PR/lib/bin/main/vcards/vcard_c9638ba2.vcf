@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Struan;Alanah;;;
+EMAIL:zstruand4@dailymail.co.uk
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Vonnie
+RELATED;TYPE=parent;VALUE=text:Zelig
+ORG:Schmeler Inc;Research and Development
+END:VCARD

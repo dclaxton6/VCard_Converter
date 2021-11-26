@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Croce;Dawn;;;
+EMAIL:kcroce22@msu.edu
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Bosco and Feest"
+RELATED;TYPE=parent;VALUE=text:Drusie
+ORG:"Moore;Legal
+END:VCARD

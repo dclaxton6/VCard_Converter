@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Del Monte;Danella;;;
+EMAIL:sdelmonte9v@indiatimes.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Kaye
+RELATED;TYPE=parent;VALUE=text:Salomone
+ORG:Kemmer-Sawayn;Business Development
+END:VCARD

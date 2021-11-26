@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Calbert;Lydon;;;
+EMAIL:ucalbert6s@chicagotribune.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Rhea
+RELATED;TYPE=parent;VALUE=text:Uri
+ORG:Hessel-Torp;Accounting
+END:VCARD

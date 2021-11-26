@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Collisson;Raphaela;;;
+EMAIL:zcollisson3x@newsvine.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Auer and Hoppe"
+RELATED;TYPE=parent;VALUE=text:Jacquelin
+ORG:"Conn;Marketing
+END:VCARD

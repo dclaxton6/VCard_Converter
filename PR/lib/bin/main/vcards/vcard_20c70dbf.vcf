@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Rickardsson;Idette;;;
+EMAIL:brickardsson3d@wufoo.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Simonis and Welch"
+RELATED;TYPE=parent;VALUE=text:Audy
+ORG:"Mitchell;Training
+END:VCARD

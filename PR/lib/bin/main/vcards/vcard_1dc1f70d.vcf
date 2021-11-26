@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Melhuish;Gerrie;;;
+EMAIL:amelhuishf6@symantec.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Andromache
+RELATED;TYPE=parent;VALUE=text:Ansell
+ORG:Batz Group;Human Resources
+END:VCARD

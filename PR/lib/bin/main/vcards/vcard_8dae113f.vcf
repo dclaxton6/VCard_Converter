@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Mungane;Stanleigh;;;
+EMAIL:dmunganehc@ibm.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Coralyn
+RELATED;TYPE=parent;VALUE=text:Delbert
+ORG:Powlowski and Sons;Engineering
+END:VCARD

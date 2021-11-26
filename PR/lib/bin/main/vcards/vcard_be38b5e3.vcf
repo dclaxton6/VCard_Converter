@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Carnegie;Mandy;;;
+EMAIL:rcarnegierl@privacy.gov.au
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Marena
+RELATED;TYPE=parent;VALUE=text:Rafe
+ORG:Schulist Group;Support
+END:VCARD

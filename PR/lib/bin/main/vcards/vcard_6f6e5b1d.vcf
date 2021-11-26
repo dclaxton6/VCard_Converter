@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Berrill;Jinny;;;
+EMAIL:lberrillg1@auda.org.au
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Upton and Pouros"
+RELATED;TYPE=parent;VALUE=text:Ivonne
+ORG:"Wyman;Support
+END:VCARD

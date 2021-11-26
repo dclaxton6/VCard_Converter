@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Howsan;Leila;;;
+EMAIL:nhowsaneo@mtv.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Ashia
+RELATED;TYPE=parent;VALUE=text:Niel
+ORG:Gulgowski-Kunze;Human Resources
+END:VCARD

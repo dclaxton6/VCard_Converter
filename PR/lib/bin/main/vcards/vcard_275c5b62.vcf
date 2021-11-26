@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Turpin;Octavia;;;
+EMAIL:oturpin3@house.gov
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Amalea
+RELATED;TYPE=parent;VALUE=text:Olin
+ORG:Lebsack Inc;Product Management
+END:VCARD

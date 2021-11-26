@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Guinane;Katine;;;
+EMAIL:sguinane3k@ca.gov
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Lorinda
+RELATED;TYPE=parent;VALUE=text:Saxon
+ORG:Erdman Group;Marketing
+END:VCARD

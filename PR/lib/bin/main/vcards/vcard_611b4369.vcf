@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Lowey;Peggy;;;
+EMAIL:rloweyds@cpanel.net
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: Huel and Pouros"
+RELATED;TYPE=parent;VALUE=text:Adrianne
+ORG:"Marks;Training
+END:VCARD

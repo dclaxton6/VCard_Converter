@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Blundell;Donn;;;
+EMAIL:sblundell4m@reference.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Sherie
+RELATED;TYPE=parent;VALUE=text:Shane
+ORG:Bernhard-Halvorson;Legal
+END:VCARD

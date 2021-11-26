@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Scogin;Carmel;;;
+EMAIL:bscogino1@list-manage.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Ziemann and Lehner"
+RELATED;TYPE=parent;VALUE=text:Kathrine
+ORG:"Beer;Support
+END:VCARD

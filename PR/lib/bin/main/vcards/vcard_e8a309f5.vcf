@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Dacey;Dore;;;
+EMAIL:jdaceypi@over-blog.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Amara
+RELATED;TYPE=parent;VALUE=text:Job
+ORG:Tremblay-Metz;Marketing
+END:VCARD

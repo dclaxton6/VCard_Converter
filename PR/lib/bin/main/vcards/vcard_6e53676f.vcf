@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Rennocks;Carly;;;
+EMAIL:erennocksra@nyu.edu
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Aleda
+RELATED;TYPE=parent;VALUE=text:Emmett
+ORG:Schowalter Inc;Accounting
+END:VCARD

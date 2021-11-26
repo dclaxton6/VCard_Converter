@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Balassa;Tannie;;;
+EMAIL:tbalassa3l@amazon.de
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Odella
+RELATED;TYPE=parent;VALUE=text:Tedmund
+ORG:Boyle-D'Amore;Human Resources
+END:VCARD

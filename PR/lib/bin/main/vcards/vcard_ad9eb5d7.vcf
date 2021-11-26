@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Charlewood;Ashla;;;
+EMAIL:rcharlewoodh2@unc.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Goodwin and Crona"
+RELATED;TYPE=parent;VALUE=text:Xena
+ORG:"Parker;Sales
+END:VCARD

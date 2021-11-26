@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Smelley;Gayelord;;;
+EMAIL:psmelleye7@google.it
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Talyah
+RELATED;TYPE=parent;VALUE=text:Patrizio
+ORG:Trantow Group;Support
+END:VCARD

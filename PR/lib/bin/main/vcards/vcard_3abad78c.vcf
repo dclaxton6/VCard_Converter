@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bagley;Karyn;;;
+EMAIL:dbagley3c@hhs.gov
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: Corwin and Orn"
+RELATED;TYPE=parent;VALUE=text:Janey
+ORG:"Farrell;Marketing
+END:VCARD

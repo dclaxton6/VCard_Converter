@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Dawidowitsch;Andre;;;
+EMAIL:adawidowitschlz@nasa.gov
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Cassin and Weissnat"
+RELATED;TYPE=parent;VALUE=text:Kirsti
+ORG:"Bins;Support
+END:VCARD

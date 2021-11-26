@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Tickel;Camile;;;
+EMAIL:ytickel4e@opera.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Othelia
+RELATED;TYPE=parent;VALUE=text:Yuri
+ORG:Morissette-Kerluke;Training
+END:VCARD

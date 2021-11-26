@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Vaughan;Layton;;;
+EMAIL:evaughanc0@digg.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Jamima
+RELATED;TYPE=parent;VALUE=text:Earlie
+ORG:Prohaska Group;Product Management
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Tripon;Kiel;;;
+EMAIL:htripon5x@nih.gov
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Alfreda
+RELATED;TYPE=parent;VALUE=text:Haskell
+ORG:Deckow-Crooks;Research and Development
+END:VCARD

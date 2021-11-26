@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Snow;Tymon;;;
+EMAIL:dsnow93@list-manage.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Coletta
+RELATED;TYPE=parent;VALUE=text:Doy
+ORG:Lang-Cole;Support
+END:VCARD

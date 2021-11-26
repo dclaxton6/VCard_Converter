@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Dougharty;Paige;;;
+EMAIL:bdoughartyrh@amazon.co.jp
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Odette
+RELATED;TYPE=parent;VALUE=text:Bax
+ORG:Turcotte Group;Research and Development
+END:VCARD

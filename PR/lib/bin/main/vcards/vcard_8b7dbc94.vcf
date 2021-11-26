@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Scimonelli;Winnifred;;;
+EMAIL:lscimonellipr@xrea.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: O'Kon and Muller"
+RELATED;TYPE=parent;VALUE=text:Prudence
+ORG:"Bernhard;Research and Development
+END:VCARD

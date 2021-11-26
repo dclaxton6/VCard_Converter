@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Vasile;Fay;;;
+EMAIL:dvasilear@marketwatch.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Kristina
+RELATED;TYPE=parent;VALUE=text:Derek
+ORG:Nader Inc;Services
+END:VCARD

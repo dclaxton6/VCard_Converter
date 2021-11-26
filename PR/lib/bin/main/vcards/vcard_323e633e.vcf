@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Karolyi;Lane;;;
+EMAIL:jkarolyill@slate.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: O'Keefe and Reilly"
+RELATED;TYPE=parent;VALUE=text:Melosa
+ORG:"McLaughlin;Marketing
+END:VCARD

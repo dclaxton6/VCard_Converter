@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Longfellow;Mindy;;;
+EMAIL:rlongfellow9i@adobe.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Myrlene
+RELATED;TYPE=parent;VALUE=text:Reidar
+ORG:Herman-Rutherford;Training
+END:VCARD

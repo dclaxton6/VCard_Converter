@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:MacShirie;Celesta;;;
+EMAIL:vmacshirieqx@businessweek.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Petronilla
+RELATED;TYPE=parent;VALUE=text:Vale
+ORG:Marquardt-Bradtke;Product Management
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Gottschalk;Jerry;;;
+EMAIL:dgottschalkl5@washington.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Lissa
+RELATED;TYPE=parent;VALUE=text:Dom
+ORG:O'Kon-Goyette;Product Management
+END:VCARD

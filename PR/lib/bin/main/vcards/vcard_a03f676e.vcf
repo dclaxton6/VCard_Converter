@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Quixley;Deanne;;;
+EMAIL:kquixleyg3@google.co.jp
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Saundra
+RELATED;TYPE=parent;VALUE=text:Karoly
+ORG:Schuppe LLC;Legal
+END:VCARD

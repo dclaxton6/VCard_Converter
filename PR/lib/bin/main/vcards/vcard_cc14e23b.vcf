@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Delaney;Joe;;;
+EMAIL:jdelaneypy@mozilla.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Bill
+RELATED;TYPE=parent;VALUE=text:Jan
+ORG:Beer-Yost;Legal
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Daid;Janie;;;
+EMAIL:bdaide@canalblog.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Claude
+RELATED;TYPE=parent;VALUE=text:Ban
+ORG:Reilly Group;Human Resources
+END:VCARD

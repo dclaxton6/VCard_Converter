@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Lambourn;Byrle;;;
+EMAIL:ilambournow@i2i.jp
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Vanya
+RELATED;TYPE=parent;VALUE=text:Isaak
+ORG:Smith-Hartmann;Services
+END:VCARD

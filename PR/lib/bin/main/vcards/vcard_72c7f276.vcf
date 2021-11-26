@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:L'Amie;Denice;;;
+EMAIL:alamieiy@wikia.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Kimberli
+RELATED;TYPE=parent;VALUE=text:Aldrich
+ORG:Waters-Lindgren;Product Management
+END:VCARD

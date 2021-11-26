@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Olland;Morley;;;
+EMAIL:jollandr0@tuttocitta.it
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text: Hamill and Rath"
+RELATED;TYPE=parent;VALUE=text:Lizzie
+ORG:"Nader;Accounting
+END:VCARD

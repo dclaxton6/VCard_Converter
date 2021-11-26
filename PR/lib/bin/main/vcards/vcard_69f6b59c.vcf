@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Brakewell;Randy;;;
+EMAIL:gbrakewell2m@senate.gov
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Torphy and Nitzsche"
+RELATED;TYPE=parent;VALUE=text:Basia
+ORG:"Carroll;Product Management
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Lawton;Maureene;;;
+EMAIL:glawtonmf@nyu.edu
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Kirlin and Legros"
+RELATED;TYPE=parent;VALUE=text:Robinett
+ORG:"Goodwin;Legal
+END:VCARD

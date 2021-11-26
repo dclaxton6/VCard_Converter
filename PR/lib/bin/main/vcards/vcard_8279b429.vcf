@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Yurenin;Zita;;;
+EMAIL:tyurening4@topsy.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Loreen
+RELATED;TYPE=parent;VALUE=text:Templeton
+ORG:Schuster-Wintheiser;Legal
+END:VCARD

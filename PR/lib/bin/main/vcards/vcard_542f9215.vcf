@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Bewsy;Raphaela;;;
+EMAIL:gbewsykn@house.gov
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Leodora
+RELATED;TYPE=parent;VALUE=text:Griffy
+ORG:Turcotte-Brakus;Business Development
+END:VCARD

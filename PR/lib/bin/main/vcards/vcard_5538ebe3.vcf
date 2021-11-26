@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Berthomieu;Shurwood;;;
+EMAIL:hberthomieubc@intel.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Greenholt and Paucek"
+RELATED;TYPE=parent;VALUE=text:Belicia
+ORG:"Langworth;Sales
+END:VCARD

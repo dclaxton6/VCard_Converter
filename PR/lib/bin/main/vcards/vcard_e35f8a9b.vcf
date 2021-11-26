@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Sogg;Amble;;;
+EMAIL:lsoggfk@examiner.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Schmidt and Swift"
+RELATED;TYPE=parent;VALUE=text:Saudra
+ORG:"Bahringer;Human Resources
+END:VCARD

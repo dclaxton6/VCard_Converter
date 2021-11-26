@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Stubbeley;Tisha;;;
+EMAIL:hstubbeleyiu@vistaprint.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Brekke and O'Reilly"
+RELATED;TYPE=parent;VALUE=text:Kerrin
+ORG:"Wiegand;Legal
+END:VCARD

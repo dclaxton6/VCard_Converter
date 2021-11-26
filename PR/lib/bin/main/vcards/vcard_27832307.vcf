@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Teesdale;Dominique;;;
+EMAIL:fteesdale3v@acquirethisname.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Kuvalis and O'Keefe"
+RELATED;TYPE=parent;VALUE=text:Vinni
+ORG:"Altenwerth;Training
+END:VCARD

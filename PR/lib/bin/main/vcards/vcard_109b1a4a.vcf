@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Farrer;Pamela;;;
+EMAIL:gfarrerph@chron.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Bianca
+RELATED;TYPE=parent;VALUE=text:Gaspar
+ORG:Pacocha LLC;Engineering
+END:VCARD

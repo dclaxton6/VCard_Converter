@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Gason;Josh;;;
+EMAIL:mgason7s@bigcartel.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Oliy
+RELATED;TYPE=parent;VALUE=text:Maxy
+ORG:Hermiston-Mills;Training
+END:VCARD

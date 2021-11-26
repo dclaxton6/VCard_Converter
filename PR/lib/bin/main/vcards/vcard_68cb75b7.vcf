@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Dederick;Ody;;;
+EMAIL:fdederickl3@howstuffworks.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Jana
+RELATED;TYPE=parent;VALUE=text:Forrester
+ORG:Bechtelar Inc;Training
+END:VCARD

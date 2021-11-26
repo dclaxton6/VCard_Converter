@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Emlin;Burl;;;
+EMAIL:lemlin23@shutterfly.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Elana
+RELATED;TYPE=parent;VALUE=text:Leroy
+ORG:Quigley-Bahringer;Sales
+END:VCARD

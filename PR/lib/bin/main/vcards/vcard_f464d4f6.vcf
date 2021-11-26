@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Spofforth;Edgard;;;
+EMAIL:bspofforthen@ihg.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Renae
+RELATED;TYPE=parent;VALUE=text:Boigie
+ORG:Thiel-Cummerata;Sales
+END:VCARD

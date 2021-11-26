@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:McClifferty;Candice;;;
+EMAIL:vmcclifferty1r@nature.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Maureene
+RELATED;TYPE=parent;VALUE=text:Vittorio
+ORG:Kling-Williamson;Accounting
+END:VCARD

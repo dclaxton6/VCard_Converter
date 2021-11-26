@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Metheringham;Rhianna;;;
+EMAIL:ymetheringham84@boston.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Eadith
+RELATED;TYPE=parent;VALUE=text:Yale
+ORG:Mayert Inc;Marketing
+END:VCARD

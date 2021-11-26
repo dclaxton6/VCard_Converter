@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Dudden;Cornelle;;;
+EMAIL:wdudden3w@com.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Dana
+RELATED;TYPE=parent;VALUE=text:Wallache
+ORG:Wilderman-Hoeger;Support
+END:VCARD

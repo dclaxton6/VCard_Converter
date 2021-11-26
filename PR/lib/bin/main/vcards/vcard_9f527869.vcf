@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:De Stoop;Jaynell;;;
+EMAIL:sdestoopip@ebay.co.uk
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Nell
+RELATED;TYPE=parent;VALUE=text:Sauncho
+ORG:Abbott and Sons;Business Development
+END:VCARD

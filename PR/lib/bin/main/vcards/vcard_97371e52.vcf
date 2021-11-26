@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Luke;Herve;;;
+EMAIL:dlukefx@google.co.jp
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Amelita
+RELATED;TYPE=parent;VALUE=text:Donovan
+ORG:Brakus and Sons;Research and Development
+END:VCARD

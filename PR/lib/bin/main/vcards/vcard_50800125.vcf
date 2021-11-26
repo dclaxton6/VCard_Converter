@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Filippyev;Kenna;;;
+EMAIL:dfilippyev62@vkontakte.ru
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Con
+RELATED;TYPE=parent;VALUE=text:Derwin
+ORG:Sanford and Sons;Accounting
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Beechcraft;Elka;;;
+EMAIL:jbeechcrafteg@bloomberg.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Carolin
+RELATED;TYPE=parent;VALUE=text:Janek
+ORG:Jast-Ullrich;Business Development
+END:VCARD

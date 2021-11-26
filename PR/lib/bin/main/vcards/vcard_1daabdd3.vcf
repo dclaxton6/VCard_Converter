@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Tattam;Rourke;;;
+EMAIL:ptattamet@cbslocal.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Abagael
+RELATED;TYPE=parent;VALUE=text:Percy
+ORG:Stehr LLC;Legal
+END:VCARD

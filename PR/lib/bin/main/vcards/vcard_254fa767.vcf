@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Worboys;Ferdinand;;;
+EMAIL:aworboys48@blinklist.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Merissa
+RELATED;TYPE=parent;VALUE=text:Antony
+ORG:Sipes-Treutel;Engineering
+END:VCARD

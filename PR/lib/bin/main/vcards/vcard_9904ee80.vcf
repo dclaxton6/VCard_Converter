@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Joddens;Orelee;;;
+EMAIL:hjoddensej@biblegateway.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: Senger and Greenholt"
+RELATED;TYPE=parent;VALUE=text:Chiarra
+ORG:"Ankunding;Support
+END:VCARD

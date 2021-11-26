@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Kilgannon;Milicent;;;
+EMAIL:rkilgannoneq@microsoft.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Shela
+RELATED;TYPE=parent;VALUE=text:Rochester
+ORG:Feest Inc;Business Development
+END:VCARD

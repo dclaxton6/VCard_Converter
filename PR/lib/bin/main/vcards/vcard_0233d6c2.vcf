@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Couldwell;Deana;;;
+EMAIL:rcouldwell5a@slideshare.net
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Margaretha
+RELATED;TYPE=parent;VALUE=text:Raoul
+ORG:Sanford-Blanda;Product Management
+END:VCARD

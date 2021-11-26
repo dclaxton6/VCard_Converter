@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Keady;Amelie;;;
+EMAIL:skeadyb1@friendfeed.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Fifi
+RELATED;TYPE=parent;VALUE=text:Sheffy
+ORG:Langosh-Weber;Business Development
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Cradduck;Simone;;;
+EMAIL:acradduckgv@slashdot.org
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Happy
+RELATED;TYPE=parent;VALUE=text:Alonso
+ORG:Williamson-Johnson;Research and Development
+END:VCARD

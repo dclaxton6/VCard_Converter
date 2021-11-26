@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Delcastel;Brent;;;
+EMAIL:tdelcastel7j@tumblr.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Julita
+RELATED;TYPE=parent;VALUE=text:Teddie
+ORG:Zemlak Inc;Support
+END:VCARD

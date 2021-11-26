@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Torrese;Dorthy;;;
+EMAIL:rtorreseh4@imdb.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Inger
+RELATED;TYPE=parent;VALUE=text:Rey
+ORG:Berge LLC;Business Development
+END:VCARD

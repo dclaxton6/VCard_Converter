@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Stud;Lief;;;
+EMAIL:bstud6l@dot.gov
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Hartmann and Koepp"
+RELATED;TYPE=parent;VALUE=text:Magdalena
+ORG:"Wiegand;Business Development
+END:VCARD

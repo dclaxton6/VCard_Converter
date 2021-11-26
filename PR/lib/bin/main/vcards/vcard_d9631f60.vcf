@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Duffitt;Wolfie;;;
+EMAIL:pduffitt2s@last.fm
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Lona
+RELATED;TYPE=parent;VALUE=text:Patrizius
+ORG:Strosin-Brekke;Human Resources
+END:VCARD

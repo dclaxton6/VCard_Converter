@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Chesters;Bryana;;;
+EMAIL:nchesters3n@flickr.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Milena
+RELATED;TYPE=parent;VALUE=text:Nicky
+ORG:Erdman and Sons;Training
+END:VCARD

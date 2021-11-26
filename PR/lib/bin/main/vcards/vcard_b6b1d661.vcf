@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Rowen;Nicoline;;;
+EMAIL:growenb3@berkeley.edu
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Friesen and Ledner"
+RELATED;TYPE=parent;VALUE=text:Lauren
+ORG:"Upton;Sales
+END:VCARD

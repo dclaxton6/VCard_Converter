@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Rickasse;Cassey;;;
+EMAIL:erickassenn@artisteer.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Valeria
+RELATED;TYPE=parent;VALUE=text:Evin
+ORG:Harris and Sons;Product Management
+END:VCARD

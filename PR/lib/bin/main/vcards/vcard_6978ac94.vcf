@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Seiffert;Ursola;;;
+EMAIL:kseiffert8m@over-blog.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Colette
+RELATED;TYPE=parent;VALUE=text:Kimball
+ORG:Blanda Group;Marketing
+END:VCARD

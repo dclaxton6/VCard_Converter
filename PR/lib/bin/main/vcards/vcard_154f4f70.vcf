@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:McWhorter;Costanza;;;
+EMAIL:lmcwhorterhs@blogtalkradio.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Asia
+RELATED;TYPE=parent;VALUE=text:Leroi
+ORG:Ward LLC;Human Resources
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Lubeck;Kare;;;
+EMAIL:blubecknj@aboutads.info
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Stacia
+RELATED;TYPE=parent;VALUE=text:Beau
+ORG:Morissette-Hilpert;Human Resources
+END:VCARD

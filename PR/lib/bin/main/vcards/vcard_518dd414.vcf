@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Marcum;Desmond;;;
+EMAIL:smarcuml4@ucoz.ru
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Karna
+RELATED;TYPE=parent;VALUE=text:Spense
+ORG:Paucek-Parisian;Marketing
+END:VCARD

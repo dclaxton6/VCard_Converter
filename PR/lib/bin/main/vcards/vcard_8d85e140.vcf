@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Paolinelli;Libbi;;;
+EMAIL:dpaolinellihy@marketwatch.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Morna
+RELATED;TYPE=parent;VALUE=text:Darrel
+ORG:Bosco-Kuhn;Engineering
+END:VCARD

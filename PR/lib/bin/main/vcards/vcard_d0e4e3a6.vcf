@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Mauchlen;Bar;;;
+EMAIL:smauchlenod@creativecommons.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Brandi
+RELATED;TYPE=parent;VALUE=text:Shelton
+ORG:Zemlak-Emard;Legal
+END:VCARD

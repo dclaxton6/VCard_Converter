@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Enticott;Gerrard;;;
+EMAIL:centicottay@foxnews.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Shae
+RELATED;TYPE=parent;VALUE=text:Carlos
+ORG:Auer Inc;Sales
+END:VCARD

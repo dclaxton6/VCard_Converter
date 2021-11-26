@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Clemes;Marlie;;;
+EMAIL:jclemesj5@mozilla.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Kass
+RELATED;TYPE=parent;VALUE=text:Jordon
+ORG:Mante-Gerlach;Accounting
+END:VCARD

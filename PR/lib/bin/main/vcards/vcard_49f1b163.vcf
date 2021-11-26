@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Teasdale-Markie;Justen;;;
+EMAIL:yteasdalemarkied@wikimedia.org
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Brooks
+RELATED;TYPE=parent;VALUE=text:Yancey
+ORG:Torphy Group;Sales
+END:VCARD

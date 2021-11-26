@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Braley;Barry;;;
+EMAIL:kbraleyir@4shared.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Kora
+RELATED;TYPE=parent;VALUE=text:Keenan
+ORG:Ratke-Stokes;Services
+END:VCARD

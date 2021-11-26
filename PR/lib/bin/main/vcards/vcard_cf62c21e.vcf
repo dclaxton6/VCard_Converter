@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Thorrington;Vidovic;;;
+EMAIL:rthorringtonog@auda.org.au
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Barby
+RELATED;TYPE=parent;VALUE=text:Richard
+ORG:Considine-Terry;Legal
+END:VCARD

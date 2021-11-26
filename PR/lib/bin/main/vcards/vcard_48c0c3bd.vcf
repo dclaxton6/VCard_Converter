@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Goodby;Domini;;;
+EMAIL:egoodbyr5@apple.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Corrie
+RELATED;TYPE=parent;VALUE=text:Ellsworth
+ORG:Zulauf-Lowe;Human Resources
+END:VCARD

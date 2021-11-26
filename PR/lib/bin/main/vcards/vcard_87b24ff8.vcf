@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Lethley;Bob;;;
+EMAIL:llethleyef@goo.gl
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Pacocha and Ritchie"
+RELATED;TYPE=parent;VALUE=text:Katharina
+ORG:"Moen;Sales
+END:VCARD

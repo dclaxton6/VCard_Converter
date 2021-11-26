@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Chaters;Fredra;;;
+EMAIL:zchatersdx@cbslocal.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Flossie
+RELATED;TYPE=parent;VALUE=text:Zacharias
+ORG:Leannon-Will;Product Management
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Lafont;Ulick;;;
+EMAIL:blafont70@goo.gl
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Abigael
+RELATED;TYPE=parent;VALUE=text:Bay
+ORG:Labadie and Sons;Engineering
+END:VCARD

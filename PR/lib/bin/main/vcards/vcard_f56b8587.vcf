@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Whiteland;Odie;;;
+EMAIL:ywhitelandn@shinystat.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Jeanie
+RELATED;TYPE=parent;VALUE=text:Yard
+ORG:Fahey-Greenfelder;Training
+END:VCARD

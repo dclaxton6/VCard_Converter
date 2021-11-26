@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Prestner;Hali;;;
+EMAIL:sprestnero2@aboutads.info
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Querida
+RELATED;TYPE=parent;VALUE=text:Shelley
+ORG:Bahringer-Dibbert;Services
+END:VCARD

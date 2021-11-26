@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bolderoe;Boniface;;;
+EMAIL:jbolderoe4d@merriam-webster.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Elga
+RELATED;TYPE=parent;VALUE=text:Jacky
+ORG:Zboncak-Kuphal;Legal
+END:VCARD

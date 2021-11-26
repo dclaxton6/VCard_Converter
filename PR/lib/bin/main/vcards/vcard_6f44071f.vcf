@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Snalum;Jenelle;;;
+EMAIL:hsnalumgb@g.co
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Delora
+RELATED;TYPE=parent;VALUE=text:Herschel
+ORG:Strosin-Schultz;Training
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Jefferys;Viola;;;
+EMAIL:pjefferys1a@mac.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Ziemann and Treutel"
+RELATED;TYPE=parent;VALUE=text:Danya
+ORG:"Gottlieb;Product Management
+END:VCARD

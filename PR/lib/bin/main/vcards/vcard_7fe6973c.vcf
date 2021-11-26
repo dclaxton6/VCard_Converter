@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Judron;Rustin;;;
+EMAIL:djudrondj@photobucket.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Jaimie
+RELATED;TYPE=parent;VALUE=text:Derwin
+ORG:Swift-Lind;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:De Bruijn;Enos;;;
+EMAIL:ndebruijnj4@rediff.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Margret
+RELATED;TYPE=parent;VALUE=text:Nowell
+ORG:Volkman-Terry;Legal
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Tamblingson;Bettine;;;
+EMAIL:mtamblingsoncz@pbs.org
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Daile
+RELATED;TYPE=parent;VALUE=text:Milty
+ORG:Gutkowski and Sons;Research and Development
+END:VCARD

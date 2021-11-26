@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:New;Myriam;;;
+EMAIL:ynewqb@tumblr.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Theresita
+RELATED;TYPE=parent;VALUE=text:Yancy
+ORG:Leuschke Inc;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Cafferty;Fredra;;;
+EMAIL:ccaffertyk4@tmall.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Harlie
+RELATED;TYPE=parent;VALUE=text:Culley
+ORG:Braun and Sons;Legal
+END:VCARD

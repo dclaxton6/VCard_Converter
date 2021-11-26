@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Harsent;Lindy;;;
+EMAIL:aharsentqj@about.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Friesen and Casper"
+RELATED;TYPE=parent;VALUE=text:Roxana
+ORG:"O'Keefe;Legal
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Gotling;Flori;;;
+EMAIL:ggotlingh8@slashdot.org
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Ellyn
+RELATED;TYPE=parent;VALUE=text:Gareth
+ORG:Crooks Inc;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Lynas;Dwain;;;
+EMAIL:mlynasla@goo.ne.jp
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Birgit
+RELATED;TYPE=parent;VALUE=text:Michale
+ORG:Bartell LLC;Engineering
+END:VCARD

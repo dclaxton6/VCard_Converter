@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Elcoux;Dan;;;
+EMAIL:belcoux5z@go.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Mellicent
+RELATED;TYPE=parent;VALUE=text:Boniface
+ORG:Treutel LLC;Human Resources
+END:VCARD

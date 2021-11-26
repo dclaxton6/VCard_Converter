@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Scoular;Lorin;;;
+EMAIL:zscoular1j@yahoo.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Armstrong and Mayer"
+RELATED;TYPE=parent;VALUE=text:Korie
+ORG:"Dietrich;Business Development
+END:VCARD

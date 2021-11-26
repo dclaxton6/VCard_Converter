@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Gartshore;Angelo;;;
+EMAIL:cgartshore3g@sun.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Rosenbaum and Deckow"
+RELATED;TYPE=parent;VALUE=text:Dorie
+ORG:"Thiel;Engineering
+END:VCARD

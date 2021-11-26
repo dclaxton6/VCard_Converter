@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Hesey;Elias;;;
+EMAIL:jheseyk8@xinhuanet.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Jakubowski and Ernser"
+RELATED;TYPE=parent;VALUE=text:Ilse
+ORG:"Nicolas;Engineering
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Manifold;Geoff;;;
+EMAIL:emanifoldj8@live.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Bernadene
+RELATED;TYPE=parent;VALUE=text:Egan
+ORG:Rath LLC;Human Resources
+END:VCARD

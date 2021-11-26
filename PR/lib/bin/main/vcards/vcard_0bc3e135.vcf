@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Nazaret;Angelica;;;
+EMAIL:dnazaretm8@yandex.ru
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Bernette
+RELATED;TYPE=parent;VALUE=text:Donal
+ORG:Schuster Group;Services
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Naisey;Normy;;;
+EMAIL:bnaisey4f@uol.com.br
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Lind
+RELATED;TYPE=parent;VALUE=text:Bartholemy
+ORG:Zemlak Group;Engineering
+END:VCARD

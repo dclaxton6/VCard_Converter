@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Norcliff;Kristopher;;;
+EMAIL:cnorcliff8l@dropbox.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Meris
+RELATED;TYPE=parent;VALUE=text:Cornall
+ORG:Steuber-Lindgren;Training
+END:VCARD

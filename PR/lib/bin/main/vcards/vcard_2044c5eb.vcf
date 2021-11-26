@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Kulic;Abbe;;;
+EMAIL:hkulice2@webs.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Kaja
+RELATED;TYPE=parent;VALUE=text:Hubey
+ORG:Purdy-O'Hara;Legal
+END:VCARD

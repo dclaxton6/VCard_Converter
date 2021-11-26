@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Bethell;Stormie;;;
+EMAIL:pbethellbw@amazon.de
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Kub and Goldner"
+RELATED;TYPE=parent;VALUE=text:Jan
+ORG:"Kunze;Engineering
+END:VCARD

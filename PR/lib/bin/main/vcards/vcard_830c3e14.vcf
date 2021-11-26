@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Benediktsson;Alameda;;;
+EMAIL:fbenediktssonix@w3.org
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Wolf and McDermott"
+RELATED;TYPE=parent;VALUE=text:Donny
+ORG:"Ernser;Marketing
+END:VCARD

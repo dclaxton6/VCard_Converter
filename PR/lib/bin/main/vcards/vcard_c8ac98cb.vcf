@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Forrestall;Cornelle;;;
+EMAIL:iforrestall3r@xinhuanet.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Angelica
+RELATED;TYPE=parent;VALUE=text:Irwinn
+ORG:Ebert-Macejkovic;Research and Development
+END:VCARD

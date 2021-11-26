@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Standish-Brooks;Carie;;;
+EMAIL:tstandishbrooks9f@w3.org
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Vonny
+RELATED;TYPE=parent;VALUE=text:Trace
+ORG:Murray-Konopelski;Human Resources
+END:VCARD

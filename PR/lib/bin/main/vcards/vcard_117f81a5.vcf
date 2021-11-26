@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Lavender;Lorilyn;;;
+EMAIL:rlavenderm0@gravatar.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Therese
+RELATED;TYPE=parent;VALUE=text:Rouvin
+ORG:Johnston-Pagac;Legal
+END:VCARD

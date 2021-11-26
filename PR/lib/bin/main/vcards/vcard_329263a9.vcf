@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Vouls;Yurik;;;
+EMAIL:gvoulsai@weibo.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Marsiella
+RELATED;TYPE=parent;VALUE=text:Giorgi
+ORG:Leannon and Sons;Engineering
+END:VCARD

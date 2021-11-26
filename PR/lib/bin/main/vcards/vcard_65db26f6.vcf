@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Allmann;Ashil;;;
+EMAIL:dallmannjs@cafepress.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Hedi
+RELATED;TYPE=parent;VALUE=text:Dane
+ORG:Prohaska-Boyle;Engineering
+END:VCARD

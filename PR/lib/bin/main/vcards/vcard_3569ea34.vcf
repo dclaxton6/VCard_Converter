@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Pere;Tonie;;;
+EMAIL:gperen3@admin.ch
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Dach and Sawayn"
+RELATED;TYPE=parent;VALUE=text:Nancee
+ORG:"Trantow;Services
+END:VCARD

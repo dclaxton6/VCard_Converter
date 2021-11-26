@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Friedank;Yorker;;;
+EMAIL:jfriedank6t@over-blog.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Katerine
+RELATED;TYPE=parent;VALUE=text:Jehu
+ORG:Gleason LLC;Legal
+END:VCARD

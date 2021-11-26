@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Juliff;Filmer;;;
+EMAIL:ojuliffoy@netvibes.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Glen
+RELATED;TYPE=parent;VALUE=text:Osgood
+ORG:Casper Inc;Support
+END:VCARD

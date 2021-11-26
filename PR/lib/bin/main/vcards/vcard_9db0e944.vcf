@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Ovise;Ferdie;;;
+EMAIL:fovise17@creativecommons.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Jania
+RELATED;TYPE=parent;VALUE=text:Farlie
+ORG:Tremblay-Borer;Business Development
+END:VCARD

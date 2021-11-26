@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Torpie;Othilia;;;
+EMAIL:btorpielf@tripod.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Mady
+RELATED;TYPE=parent;VALUE=text:Bevan
+ORG:Hackett Group;Marketing
+END:VCARD

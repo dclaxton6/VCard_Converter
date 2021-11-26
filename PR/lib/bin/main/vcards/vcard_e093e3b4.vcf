@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:MacKaig;Dagny;;;
+EMAIL:cmackaigey@nifty.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Lola
+RELATED;TYPE=parent;VALUE=text:Cleavland
+ORG:Schoen-Oberbrunner;Training
+END:VCARD

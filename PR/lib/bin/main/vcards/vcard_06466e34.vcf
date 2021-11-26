@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Szymanowicz;Bordie;;;
+EMAIL:hszymanowiczec@networkadvertising.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Bill
+RELATED;TYPE=parent;VALUE=text:Hamish
+ORG:O'Reilly-Hettinger;Human Resources
+END:VCARD

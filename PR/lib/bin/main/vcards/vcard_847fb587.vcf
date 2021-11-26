@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Peter;Fraze;;;
+EMAIL:dpeter40@diigo.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Pfannerstill and Hoeger"
+RELATED;TYPE=parent;VALUE=text:Nanete
+ORG:"Prohaska;Services
+END:VCARD

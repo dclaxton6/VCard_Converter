@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Golthorpp;Atlanta;;;
+EMAIL:agolthorpp63@hugedomains.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Coral
+RELATED;TYPE=parent;VALUE=text:Aluin
+ORG:Gulgowski and Sons;Training
+END:VCARD

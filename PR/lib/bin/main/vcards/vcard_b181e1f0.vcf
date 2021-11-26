@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Ludwig;Helge;;;
+EMAIL:dludwig12@soup.io
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Kara
+RELATED;TYPE=parent;VALUE=text:Duky
+ORG:Osinski-Kulas;Business Development
+END:VCARD

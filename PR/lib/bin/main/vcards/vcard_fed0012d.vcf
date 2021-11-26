@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Pettinger;Angel;;;
+EMAIL:hpettinger71@digg.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Modestia
+RELATED;TYPE=parent;VALUE=text:Heriberto
+ORG:McGlynn Inc;Human Resources
+END:VCARD

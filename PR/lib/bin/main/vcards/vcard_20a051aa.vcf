@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Domleo;Abe;;;
+EMAIL:rdomleo5b@discuz.net
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Cherise
+RELATED;TYPE=parent;VALUE=text:Rodrigo
+ORG:Hahn Inc;Training
+END:VCARD

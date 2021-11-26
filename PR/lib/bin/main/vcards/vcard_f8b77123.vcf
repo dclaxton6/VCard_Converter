@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Siely;Marcel;;;
+EMAIL:dsielydp@people.com.cn
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Melissa
+RELATED;TYPE=parent;VALUE=text:Denny
+ORG:Morissette-Streich;Research and Development
+END:VCARD

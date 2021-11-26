@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Simmank;Ruthie;;;
+EMAIL:asimmankb9@jugem.jp
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Regina
+RELATED;TYPE=parent;VALUE=text:Alfonse
+ORG:Adams-Braun;Accounting
+END:VCARD

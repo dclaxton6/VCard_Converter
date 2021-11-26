@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Heed;Jodi;;;
+EMAIL:dheedic@google.ru
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Renee
+RELATED;TYPE=parent;VALUE=text:Derrek
+ORG:Schaden-Hintz;Training
+END:VCARD

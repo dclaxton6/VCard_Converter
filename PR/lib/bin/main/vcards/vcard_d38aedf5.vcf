@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Jinda;Corrianne;;;
+EMAIL:djinda5k@ebay.co.uk
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Caresa
+RELATED;TYPE=parent;VALUE=text:Dave
+ORG:Rolfson-Torphy;Sales
+END:VCARD

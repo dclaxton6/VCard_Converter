@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:D'Ambrosio;Lynett;;;
+EMAIL:odambrosio65@php.net
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Samara
+RELATED;TYPE=parent;VALUE=text:Orville
+ORG:Rosenbaum-Rutherford;Marketing
+END:VCARD

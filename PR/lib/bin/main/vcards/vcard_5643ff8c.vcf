@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Marrill;Brandice;;;
+EMAIL:amarrill8v@unblog.fr
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Renata
+RELATED;TYPE=parent;VALUE=text:Aurthur
+ORG:Smitham-Howell;Services
+END:VCARD

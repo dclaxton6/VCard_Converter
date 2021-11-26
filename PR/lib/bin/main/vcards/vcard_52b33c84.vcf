@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Cayser;Daisie;;;
+EMAIL:hcayser9g@ameblo.jp
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Debby
+RELATED;TYPE=parent;VALUE=text:Humfrid
+ORG:Kovacek-Sipes;Business Development
+END:VCARD

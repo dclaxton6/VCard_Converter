@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Dyson;Hugues;;;
+EMAIL:ldysonks@comsenz.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Schamberger and Spinka"
+RELATED;TYPE=parent;VALUE=text:Dita
+ORG:"Weimann;Product Management
+END:VCARD

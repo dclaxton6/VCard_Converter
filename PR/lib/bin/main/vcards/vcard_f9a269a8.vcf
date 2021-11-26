@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Depka;Linda;;;
+EMAIL:vdepka99@dedecms.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Sipes and Wiegand"
+RELATED;TYPE=parent;VALUE=text:Clarissa
+ORG:"Ernser;Services
+END:VCARD

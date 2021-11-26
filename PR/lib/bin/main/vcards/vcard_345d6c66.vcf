@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Guerre;Anna-maria;;;
+EMAIL:oguerre56@multiply.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Shanna
+RELATED;TYPE=parent;VALUE=text:Onofredo
+ORG:Schowalter LLC;Product Management
+END:VCARD

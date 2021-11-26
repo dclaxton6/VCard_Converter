@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Mayes;Lay;;;
+EMAIL:vmayesbi@blogtalkradio.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Benni
+RELATED;TYPE=parent;VALUE=text:Vern
+ORG:Kilback-Marvin;Training
+END:VCARD

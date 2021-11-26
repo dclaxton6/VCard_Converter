@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Pietasch;Kristan;;;
+EMAIL:spietasch5w@yandex.ru
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Jacobi and Nienow"
+RELATED;TYPE=parent;VALUE=text:Ann
+ORG:"Rempel;Accounting
+END:VCARD

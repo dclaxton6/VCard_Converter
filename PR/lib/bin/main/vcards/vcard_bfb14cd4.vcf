@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Stocker;Almeda;;;
+EMAIL:mstocker8d@microsoft.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Carlynn
+RELATED;TYPE=parent;VALUE=text:Mischa
+ORG:Effertz-Larkin;Training
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Cockland;Alejandrina;;;
+EMAIL:hcocklandp2@discovery.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Tandi
+RELATED;TYPE=parent;VALUE=text:Hebert
+ORG:Smitham Group;Product Management
+END:VCARD

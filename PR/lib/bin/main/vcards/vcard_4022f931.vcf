@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Canny;Abbe;;;
+EMAIL:ccannydo@a8.net
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Wiza and O'Kon"
+RELATED;TYPE=parent;VALUE=text:Vi
+ORG:"Hoeger;Business Development
+END:VCARD

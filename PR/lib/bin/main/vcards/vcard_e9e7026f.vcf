@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Tomisch;Siegfried;;;
+EMAIL:ytomischi9@hatena.ne.jp
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Amity
+RELATED;TYPE=parent;VALUE=text:Yul
+ORG:Reichel-Hilll;Sales
+END:VCARD

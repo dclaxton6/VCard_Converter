@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Kropach;Jessamine;;;
+EMAIL:nkropach8f@cnn.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Krajcik and Stracke"
+RELATED;TYPE=parent;VALUE=text:Norah
+ORG:"Labadie;Engineering
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Fairlam;Charisse;;;
+EMAIL:ffairlamle@nydailynews.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Jasmina
+RELATED;TYPE=parent;VALUE=text:Federico
+ORG:Johnson-Mills;Marketing
+END:VCARD

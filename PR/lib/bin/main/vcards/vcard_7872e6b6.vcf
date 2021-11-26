@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Halden;Corinna;;;
+EMAIL:khaldeno7@guardian.co.uk
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Zena
+RELATED;TYPE=parent;VALUE=text:Kareem
+ORG:Goyette-Schamberger;Research and Development
+END:VCARD

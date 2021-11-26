@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Jewel;Anett;;;
+EMAIL:jjewela8@ihg.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Coralie
+RELATED;TYPE=parent;VALUE=text:Jermayne
+ORG:Von Group;Sales
+END:VCARD

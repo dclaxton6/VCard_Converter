@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Alfonsetti;Oralie;;;
+EMAIL:aalfonsettii1@bluehost.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Amandie
+RELATED;TYPE=parent;VALUE=text:Alanson
+ORG:Bauch-Berge;Support
+END:VCARD

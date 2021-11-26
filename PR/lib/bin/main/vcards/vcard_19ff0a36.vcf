@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Vasyukhichev;Roderigo;;;
+EMAIL:kvasyukhichevkf@facebook.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Lyndsay
+RELATED;TYPE=parent;VALUE=text:Kenon
+ORG:Medhurst-Gleichner;Business Development
+END:VCARD

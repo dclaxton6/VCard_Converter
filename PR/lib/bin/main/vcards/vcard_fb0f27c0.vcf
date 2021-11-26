@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Oene;Lane;;;
+EMAIL:boeneoa@technorati.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Auer and Hermiston"
+RELATED;TYPE=parent;VALUE=text:Rubia
+ORG:"Jacobson;Legal
+END:VCARD

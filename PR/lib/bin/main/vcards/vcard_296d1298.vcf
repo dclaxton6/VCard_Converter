@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Lammin;Lynn;;;
+EMAIL:clamminmw@webeden.co.uk
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Federica
+RELATED;TYPE=parent;VALUE=text:Cos
+ORG:Gerlach Group;Sales
+END:VCARD

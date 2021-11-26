@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Woolacott;Gerrard;;;
+EMAIL:bwoolacott80@slashdot.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Candi
+RELATED;TYPE=parent;VALUE=text:Barri
+ORG:West-Reichert;Research and Development
+END:VCARD

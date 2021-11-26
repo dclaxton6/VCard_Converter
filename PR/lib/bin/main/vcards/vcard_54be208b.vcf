@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Grills;Ellwood;;;
+EMAIL:tgrillsdm@github.io
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Pattie
+RELATED;TYPE=parent;VALUE=text:Tim
+ORG:Ondricka Inc;Accounting
+END:VCARD

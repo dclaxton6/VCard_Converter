@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Doerling;Wenonah;;;
+EMAIL:cdoerlingh@springer.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Walter and Bogisich"
+RELATED;TYPE=parent;VALUE=text:Roanna
+ORG:"Hudson;Research and Development
+END:VCARD

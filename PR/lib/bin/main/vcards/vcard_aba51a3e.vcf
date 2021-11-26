@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Prout;Magdalene;;;
+EMAIL:mprout7t@parallels.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Heathcote and Hegmann"
+RELATED;TYPE=parent;VALUE=text:Ilysa
+ORG:"Stamm;Training
+END:VCARD

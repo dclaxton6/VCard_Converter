@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Derricoat;Bird;;;
+EMAIL:rderricoata5@cbslocal.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Keeling and Sawayn"
+RELATED;TYPE=parent;VALUE=text:Felipa
+ORG:"Gibson;Legal
+END:VCARD

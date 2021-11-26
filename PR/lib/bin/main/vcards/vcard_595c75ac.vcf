@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Golton;Mattie;;;
+EMAIL:rgoltondy@skyrock.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Susannah
+RELATED;TYPE=parent;VALUE=text:Randall
+ORG:Pollich-Bosco;Human Resources
+END:VCARD

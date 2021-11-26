@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Machans;Al;;;
+EMAIL:imachanseh@blinklist.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Lucie
+RELATED;TYPE=parent;VALUE=text:Ingram
+ORG:Ritchie Group;Business Development
+END:VCARD

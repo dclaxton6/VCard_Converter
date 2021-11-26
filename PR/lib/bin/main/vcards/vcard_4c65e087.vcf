@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Phettis;Husein;;;
+EMAIL:kphettispl@xing.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Hessel and Gerlach"
+RELATED;TYPE=parent;VALUE=text:Pam
+ORG:"Bogan;Product Management
+END:VCARD

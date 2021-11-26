@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Lanston;Kalina;;;
+EMAIL:flanston8t@wikipedia.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Vivyan
+RELATED;TYPE=parent;VALUE=text:Fred
+ORG:Krajcik LLC;Human Resources
+END:VCARD

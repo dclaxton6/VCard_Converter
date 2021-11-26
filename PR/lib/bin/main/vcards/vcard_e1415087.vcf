@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Kasman;Betty;;;
+EMAIL:tkasmanor@drupal.org
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Jolynn
+RELATED;TYPE=parent;VALUE=text:Thedrick
+ORG:Koch-Erdman;Business Development
+END:VCARD

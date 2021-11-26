@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Gittens;Sibyl;;;
+EMAIL:ngittens8h@dion.ne.jp
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Garland
+RELATED;TYPE=parent;VALUE=text:Nil
+ORG:Vandervort-Daugherty;Research and Development
+END:VCARD

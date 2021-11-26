@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Leavy;Bryn;;;
+EMAIL:cleavy54@over-blog.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Steffie
+RELATED;TYPE=parent;VALUE=text:Cecilius
+ORG:Greenholt and Sons;Engineering
+END:VCARD

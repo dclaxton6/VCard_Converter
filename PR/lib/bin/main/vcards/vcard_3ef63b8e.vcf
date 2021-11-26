@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Biddwell;Syman;;;
+EMAIL:bbiddwellj2@columbia.edu
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Cookie
+RELATED;TYPE=parent;VALUE=text:Benji
+ORG:Lowe Group;Research and Development
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:La Batie;Cori;;;
+EMAIL:dlabatie4j@themeforest.net
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Madalyn
+RELATED;TYPE=parent;VALUE=text:Dickie
+ORG:Runolfsdottir LLC;Accounting
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Danovich;Bart;;;
+EMAIL:ddanovichgu@ftc.gov
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Rhody
+RELATED;TYPE=parent;VALUE=text:Delbert
+ORG:Bogisich-Leuschke;Research and Development
+END:VCARD

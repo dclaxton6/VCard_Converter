@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Vickar;Rowen;;;
+EMAIL:rvickark@nyu.edu
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text: Hintz and MacGyver"
+RELATED;TYPE=parent;VALUE=text:Mair
+ORG:"Moore;Engineering
+END:VCARD

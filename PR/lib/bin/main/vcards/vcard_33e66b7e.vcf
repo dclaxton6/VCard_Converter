@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Cecere;Thorn;;;
+EMAIL:hcecerekw@stanford.edu
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Lise
+RELATED;TYPE=parent;VALUE=text:Hirsch
+ORG:Dickinson-Zulauf;Support
+END:VCARD

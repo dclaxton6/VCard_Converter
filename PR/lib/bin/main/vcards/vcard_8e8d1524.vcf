@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Chatenier;Anallise;;;
+EMAIL:cchatenierap@netlog.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Halley
+RELATED;TYPE=parent;VALUE=text:Carleton
+ORG:Kirlin-Lehner;Support
+END:VCARD

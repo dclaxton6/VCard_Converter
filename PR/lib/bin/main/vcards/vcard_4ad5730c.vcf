@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:De Cleen;Shara;;;
+EMAIL:rdecleen50@ox.ac.uk
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Mirabella
+RELATED;TYPE=parent;VALUE=text:Roderich
+ORG:Shields Inc;Research and Development
+END:VCARD

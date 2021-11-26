@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Drinkhill;Goldarina;;;
+EMAIL:cdrinkhillc3@theatlantic.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Cory
+RELATED;TYPE=parent;VALUE=text:Cristian
+ORG:Johns LLC;Accounting
+END:VCARD

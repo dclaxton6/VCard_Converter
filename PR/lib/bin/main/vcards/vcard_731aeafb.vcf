@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Engley;Lita;;;
+EMAIL:aengley6i@tripod.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Lauri
+RELATED;TYPE=parent;VALUE=text:Artemis
+ORG:Schulist and Sons;Marketing
+END:VCARD

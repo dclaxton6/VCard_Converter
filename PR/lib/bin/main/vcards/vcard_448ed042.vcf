@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Vasenin;Vitia;;;
+EMAIL:gvaseninf@parallels.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Nadeen
+RELATED;TYPE=parent;VALUE=text:Gerardo
+ORG:Ruecker and Sons;Engineering
+END:VCARD

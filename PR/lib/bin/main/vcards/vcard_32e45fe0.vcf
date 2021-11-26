@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Gostling;Thatch;;;
+EMAIL:pgostling7v@yolasite.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Renelle
+RELATED;TYPE=parent;VALUE=text:Pat
+ORG:Bins-Ryan;Training
+END:VCARD

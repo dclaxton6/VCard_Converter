@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Hanvey;Amara;;;
+EMAIL:ahanveyfw@dailymail.co.uk
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Austina
+RELATED;TYPE=parent;VALUE=text:Adler
+ORG:Schroeder LLC;Engineering
+END:VCARD

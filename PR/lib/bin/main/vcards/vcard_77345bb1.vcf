@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Althrop;Jens;;;
+EMAIL:malthrop3a@skyrock.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text: Swaniawski and Johns"
+RELATED;TYPE=parent;VALUE=text:Avrit
+ORG:"Kozey;Engineering
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Santos;Clayborn;;;
+EMAIL:asantos8s@wired.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Heaney and Kunde"
+RELATED;TYPE=parent;VALUE=text:Sianna
+ORG:"Johns;Research and Development
+END:VCARD

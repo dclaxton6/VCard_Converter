@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bucklan;Tani;;;
+EMAIL:qbucklan4q@cisco.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Leonelle
+RELATED;TYPE=parent;VALUE=text:Quintus
+ORG:Rath-Denesik;Accounting
+END:VCARD

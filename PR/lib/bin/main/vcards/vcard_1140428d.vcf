@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Torbard;Kermie;;;
+EMAIL:vtorbardpz@state.tx.us
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Mavra
+RELATED;TYPE=parent;VALUE=text:Vin
+ORG:Gorczany-Kessler;Marketing
+END:VCARD

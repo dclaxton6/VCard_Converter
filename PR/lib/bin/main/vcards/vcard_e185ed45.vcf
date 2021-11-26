@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Ishak;Blair;;;
+EMAIL:kishakls@ezinearticles.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Doroteya
+RELATED;TYPE=parent;VALUE=text:Kermit
+ORG:Hackett Inc;Support
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Juleff;Bram;;;
+EMAIL:djuleffo3@indiegogo.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Carleen
+RELATED;TYPE=parent;VALUE=text:Dael
+ORG:Senger Inc;Engineering
+END:VCARD

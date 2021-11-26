@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Margerrison;Marlena;;;
+EMAIL:amargerrisonhn@mac.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Laetitia
+RELATED;TYPE=parent;VALUE=text:Augustus
+ORG:Davis Group;Marketing
+END:VCARD

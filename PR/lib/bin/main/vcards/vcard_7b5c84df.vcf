@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Kineton;Maximilien;;;
+EMAIL:skinetonni@fc2.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Carlota
+RELATED;TYPE=parent;VALUE=text:Saxon
+ORG:Pfeffer LLC;Training
+END:VCARD

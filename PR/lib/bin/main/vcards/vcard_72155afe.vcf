@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Ballendine;Ainsley;;;
+EMAIL:jballendinega@slashdot.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Heloise
+RELATED;TYPE=parent;VALUE=text:Jeremiah
+ORG:Murphy Inc;Sales
+END:VCARD

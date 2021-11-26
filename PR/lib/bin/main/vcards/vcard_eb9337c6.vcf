@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Munn;Jeffry;;;
+EMAIL:rmunned@cnn.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Alexine
+RELATED;TYPE=parent;VALUE=text:Reginauld
+ORG:West-O'Connell;Legal
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Brierton;Aubrette;;;
+EMAIL:mbriertonhv@unc.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Doyle and Hartmann"
+RELATED;TYPE=parent;VALUE=text:Henrie
+ORG:"Schumm;Legal
+END:VCARD

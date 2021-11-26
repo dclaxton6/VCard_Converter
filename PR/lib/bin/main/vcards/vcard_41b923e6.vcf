@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Primo;Courtnay;;;
+EMAIL:cprimolu@mashable.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: Gottlieb and Keebler"
+RELATED;TYPE=parent;VALUE=text:Cariotta
+ORG:"Cartwright;Training
+END:VCARD

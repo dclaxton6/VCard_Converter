@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Zmitruk;Lek;;;
+EMAIL:gzmitrukg@miitbeian.gov.cn
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Tiffany
+RELATED;TYPE=parent;VALUE=text:Gabie
+ORG:Wyman-Adams;Accounting
+END:VCARD

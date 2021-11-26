@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Gascoine;Chicky;;;
+EMAIL:dgascoine5t@parallels.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Quitzon and Wyman"
+RELATED;TYPE=parent;VALUE=text:Bernadene
+ORG:"Hansen;Legal
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Kinnock;Bruno;;;
+EMAIL:kkinnockl0@oracle.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Erinna
+RELATED;TYPE=parent;VALUE=text:Kristian
+ORG:McDermott-Reilly;Accounting
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Norcutt;Charley;;;
+EMAIL:knorcuttp8@shareasale.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Amelina
+RELATED;TYPE=parent;VALUE=text:Kleon
+ORG:Turner LLC;Product Management
+END:VCARD

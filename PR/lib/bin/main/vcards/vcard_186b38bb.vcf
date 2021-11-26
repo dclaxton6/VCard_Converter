@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Massey;Hollie;;;
+EMAIL:amassey5l@upenn.edu
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Runolfsson and Mueller"
+RELATED;TYPE=parent;VALUE=text:Lorelle
+ORG:"O'Kon;Sales
+END:VCARD

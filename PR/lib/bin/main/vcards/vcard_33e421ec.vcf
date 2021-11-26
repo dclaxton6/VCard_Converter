@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Llewellyn;Marlon;;;
+EMAIL:tllewellynba@java.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Pepita
+RELATED;TYPE=parent;VALUE=text:Tuck
+ORG:Stehr LLC;Marketing
+END:VCARD

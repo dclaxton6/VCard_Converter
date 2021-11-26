@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Nuscha;Hildegaard;;;
+EMAIL:gnuschaex@yahoo.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text: O'Reilly and Donnelly"
+RELATED;TYPE=parent;VALUE=text:Nomi
+ORG:"Schowalter;Engineering
+END:VCARD

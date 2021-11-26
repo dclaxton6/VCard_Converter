@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Camoletto;Rey;;;
+EMAIL:ocamolettoi0@facebook.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Clio
+RELATED;TYPE=parent;VALUE=text:Ozzie
+ORG:Koelpin Group;Sales
+END:VCARD

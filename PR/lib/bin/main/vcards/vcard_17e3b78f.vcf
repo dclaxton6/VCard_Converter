@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Petrovykh;Evan;;;
+EMAIL:lpetrovykhp1@nytimes.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Prudy
+RELATED;TYPE=parent;VALUE=text:Levi
+ORG:Becker-O'Hara;Research and Development
+END:VCARD

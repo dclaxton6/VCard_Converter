@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Espinet;Ottilie;;;
+EMAIL:respinetk9@indiatimes.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Hana
+RELATED;TYPE=parent;VALUE=text:Rabi
+ORG:Mertz-Beier;Engineering
+END:VCARD

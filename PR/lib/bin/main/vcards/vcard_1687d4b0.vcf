@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Backhouse;Orsola;;;
+EMAIL:tbackhouse4@elegantthemes.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Zora
+RELATED;TYPE=parent;VALUE=text:Tomaso
+ORG:Kozey Group;Business Development
+END:VCARD

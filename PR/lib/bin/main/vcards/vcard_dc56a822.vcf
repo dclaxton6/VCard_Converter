@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Rooksby;Hillary;;;
+EMAIL:arooksbyof@nationalgeographic.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Bernita
+RELATED;TYPE=parent;VALUE=text:Alley
+ORG:Jaskolski-Kshlerin;Human Resources
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Allan;Stephanie;;;
+EMAIL:iallanfa@apple.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text: Kunde and Torphy"
+RELATED;TYPE=parent;VALUE=text:Orly
+ORG:"Lebsack;Research and Development
+END:VCARD

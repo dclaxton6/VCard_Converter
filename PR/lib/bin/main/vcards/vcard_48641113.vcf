@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Pettisall;Coretta;;;
+EMAIL:zpettisallro@vkontakte.ru
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Vonny
+RELATED;TYPE=parent;VALUE=text:Zollie
+ORG:Larkin LLC;Training
+END:VCARD

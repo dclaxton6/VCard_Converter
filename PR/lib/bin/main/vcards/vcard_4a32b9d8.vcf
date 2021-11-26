@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Comi;Jolee;;;
+EMAIL:kcomijz@fastcompany.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Annice
+RELATED;TYPE=parent;VALUE=text:Kelby
+ORG:Von-Langworth;Accounting
+END:VCARD

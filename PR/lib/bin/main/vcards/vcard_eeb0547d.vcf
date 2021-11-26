@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Spowart;Jakie;;;
+EMAIL:gspowartcm@yale.edu
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Mureil
+RELATED;TYPE=parent;VALUE=text:Gorden
+ORG:Morar-Zboncak;Human Resources
+END:VCARD

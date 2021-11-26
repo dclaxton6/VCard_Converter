@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Noirel;Brit;;;
+EMAIL:hnoirel6e@yandex.ru
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Sisely
+RELATED;TYPE=parent;VALUE=text:Harv
+ORG:Stark-Lemke;Sales
+END:VCARD

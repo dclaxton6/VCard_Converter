@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Antoniutti;Tammara;;;
+EMAIL:santoniutti44@squarespace.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text:Nanon
+RELATED;TYPE=parent;VALUE=text:Stavros
+ORG:Kertzmann-Kuhic;Sales
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Hubball;Jere;;;
+EMAIL:bhubball6p@wiley.com
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Madelon
+RELATED;TYPE=parent;VALUE=text:Berti
+ORG:Schimmel-Ritchie;Research and Development
+END:VCARD

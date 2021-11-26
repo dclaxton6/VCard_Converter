@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Markie;Yolanthe;;;
+EMAIL:gmarkie6z@drupal.org
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text: Wyman and Ratke"
+RELATED;TYPE=parent;VALUE=text:Wilhelmine
+ORG:"Littel;Marketing
+END:VCARD

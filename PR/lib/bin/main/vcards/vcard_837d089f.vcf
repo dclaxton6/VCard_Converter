@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Semor;Veronika;;;
+EMAIL:tsemor5d@networksolutions.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Johnston and Rau"
+RELATED;TYPE=parent;VALUE=text:Hadria
+ORG:"Wolff;Research and Development
+END:VCARD

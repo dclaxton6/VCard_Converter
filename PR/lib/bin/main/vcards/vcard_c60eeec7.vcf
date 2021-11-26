@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Battista;Saleem;;;
+EMAIL:wbattistaca@vimeo.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Kissiah
+RELATED;TYPE=parent;VALUE=text:Willem
+ORG:Green LLC;Accounting
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Jenson;Kass;;;
+EMAIL:hjensonfr@amazon.co.jp
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Hortense
+RELATED;TYPE=parent;VALUE=text:Herc
+ORG:Wyman and Sons;Training
+END:VCARD

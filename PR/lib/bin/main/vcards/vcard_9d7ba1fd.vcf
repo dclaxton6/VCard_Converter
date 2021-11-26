@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Lancetter;Vince;;;
+EMAIL:flancetter8p@gov.uk
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Theo
+RELATED;TYPE=parent;VALUE=text:Fleming
+ORG:Balistreri Inc;Marketing
+END:VCARD

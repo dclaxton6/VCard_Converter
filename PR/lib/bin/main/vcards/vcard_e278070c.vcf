@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Wedgwood;Melisa;;;
+EMAIL:ewedgwooda3@merriam-webster.com
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Brittani
+RELATED;TYPE=parent;VALUE=text:Erek
+ORG:Orn Group;Sales
+END:VCARD

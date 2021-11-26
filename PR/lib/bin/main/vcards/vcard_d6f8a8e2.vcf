@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Moules;Griffie;;;
+EMAIL:omoules4o@oakley.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Funk and O'Reilly"
+RELATED;TYPE=parent;VALUE=text:Rici
+ORG:"Nicolas;Legal
+END:VCARD

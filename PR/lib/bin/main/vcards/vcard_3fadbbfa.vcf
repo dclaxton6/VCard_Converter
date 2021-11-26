@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Obell;Marthena;;;
+EMAIL:aobellmt@miitbeian.gov.cn
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Bebe
+RELATED;TYPE=parent;VALUE=text:Antoine
+ORG:Hamill-Trantow;Product Management
+END:VCARD

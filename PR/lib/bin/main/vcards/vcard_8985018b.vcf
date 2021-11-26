@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Bento;Teri;;;
+EMAIL:cbentoka@virginia.edu
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Dione
+RELATED;TYPE=parent;VALUE=text:Conrad
+ORG:Conroy-Stark;Support
+END:VCARD

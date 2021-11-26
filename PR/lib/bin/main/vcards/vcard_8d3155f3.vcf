@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Dimmer;Dorena;;;
+EMAIL:rdimmer9k@hao123.com
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Drucy
+RELATED;TYPE=parent;VALUE=text:Raffaello
+ORG:Mayert LLC;Sales
+END:VCARD

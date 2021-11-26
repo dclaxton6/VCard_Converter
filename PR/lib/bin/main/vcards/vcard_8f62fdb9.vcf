@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Manjin;Kelcy;;;
+EMAIL:nmanjinon@netscape.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Tandi
+RELATED;TYPE=parent;VALUE=text:Nil
+ORG:Murazik-Marks;Services
+END:VCARD

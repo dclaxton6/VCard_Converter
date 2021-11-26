@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Honisch;Tiphani;;;
+EMAIL:rhonischd1@macromedia.com
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Enrika
+RELATED;TYPE=parent;VALUE=text:Rustin
+ORG:Lemke-Halvorson;Support
+END:VCARD

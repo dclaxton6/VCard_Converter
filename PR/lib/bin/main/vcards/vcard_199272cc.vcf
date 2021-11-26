@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Wogdon;Dot;;;
+EMAIL:awogdon2o@comcast.net
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Sarita
+RELATED;TYPE=parent;VALUE=text:Ailbert
+ORG:Dare-Beahan;Research and Development
+END:VCARD

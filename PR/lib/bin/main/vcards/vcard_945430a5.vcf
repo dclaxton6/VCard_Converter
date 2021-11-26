@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Fleeman;Ernestus;;;
+EMAIL:kfleeman2x@mozilla.org
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Conni
+RELATED;TYPE=parent;VALUE=text:Ky
+ORG:Prohaska Group;Legal
+END:VCARD

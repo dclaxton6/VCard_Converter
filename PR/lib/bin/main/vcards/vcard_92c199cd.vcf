@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Ferney;Sydel;;;
+EMAIL:mferney73@wiley.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Greenholt and Hyatt"
+RELATED;TYPE=parent;VALUE=text:Vinni
+ORG:"Smitham;Sales
+END:VCARD

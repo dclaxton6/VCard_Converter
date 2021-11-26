@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Randal;Quinta;;;
+EMAIL:irandalom@t-online.de
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Britni
+RELATED;TYPE=parent;VALUE=text:Ilario
+ORG:Stanton-Fisher;Legal
+END:VCARD

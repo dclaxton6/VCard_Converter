@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Rev
+N:Watkinson;Cos;;;
+EMAIL:twatkinson1v@prlog.org
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text: Hintz and Reilly"
+RELATED;TYPE=parent;VALUE=text:Anstice
+ORG:"Metz;Support
+END:VCARD

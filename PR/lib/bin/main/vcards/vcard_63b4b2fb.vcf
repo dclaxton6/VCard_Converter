@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mr
+N:Ezzle;Dick;;;
+EMAIL:tezzlec8@amazon.co.uk
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Quintina
+RELATED;TYPE=parent;VALUE=text:Torre
+ORG:Reinger-Gulgowski;Marketing
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Lemmer;Cybill;;;
+EMAIL:mlemmer34@amazon.co.jp
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text:Charo
+RELATED;TYPE=parent;VALUE=text:My
+ORG:Runolfsdottir LLC;Accounting
+END:VCARD

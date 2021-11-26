@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Saylor;Auria;;;
+EMAIL:ksaylorep@redcross.org
+GENDER:NON-BINARY
+RELATED;TYPE=parent;VALUE=text:Cissy
+RELATED;TYPE=parent;VALUE=text:Kaspar
+ORG:Willms-Miller;Engineering
+END:VCARD

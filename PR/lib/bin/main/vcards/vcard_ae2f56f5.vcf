@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Lermouth;Ahmed;;;
+EMAIL:nlermouthc4@newsvine.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Farrand
+RELATED;TYPE=parent;VALUE=text:Nev
+ORG:Crona and Sons;Business Development
+END:VCARD

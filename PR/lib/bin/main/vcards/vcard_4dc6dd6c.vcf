@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Collyear;Baxter;;;
+EMAIL:lcollyear4l@smh.com.au
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Merissa
+RELATED;TYPE=parent;VALUE=text:Lou
+ORG:Huel and Sons;Support
+END:VCARD

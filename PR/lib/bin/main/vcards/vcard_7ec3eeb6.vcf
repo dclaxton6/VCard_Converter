@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Blacklidge;Emily;;;
+EMAIL:sblacklidgepe@berkeley.edu
+GENDER:AGENDER
+RELATED;TYPE=parent;VALUE=text:Erinna
+RELATED;TYPE=parent;VALUE=text:Salvidor
+ORG:Bauch LLC;Support
+END:VCARD

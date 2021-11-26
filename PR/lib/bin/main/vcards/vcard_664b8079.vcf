@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Bolle;Holly;;;
+EMAIL:bbolleat@jugem.jp
+GENDER:GENDERQUEER
+RELATED;TYPE=parent;VALUE=text:Lorrin
+RELATED;TYPE=parent;VALUE=text:Benton
+ORG:Nitzsche-Stoltenberg;Engineering
+END:VCARD

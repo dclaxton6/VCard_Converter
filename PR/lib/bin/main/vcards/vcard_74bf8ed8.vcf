@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Chesworth;Mal;;;
+EMAIL:dchesworth5h@comcast.net
+GENDER:POLYGENDER
+RELATED;TYPE=parent;VALUE=text:Helena
+RELATED;TYPE=parent;VALUE=text:Decca
+ORG:Effertz LLC;Legal
+END:VCARD

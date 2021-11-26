@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Ms
+N:Dearth;Derrek;;;
+EMAIL:tdearthrr@dagondesign.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Danella
+RELATED;TYPE=parent;VALUE=text:Tedman
+ORG:Kris and Sons;Support
+END:VCARD

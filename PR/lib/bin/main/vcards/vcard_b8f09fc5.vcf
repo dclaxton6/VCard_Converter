@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Mrs
+N:Raeburn;Starlin;;;
+EMAIL:fraeburnn5@economist.com
+GENDER:GENDERFLUID
+RELATED;TYPE=parent;VALUE=text:Bobbette
+RELATED;TYPE=parent;VALUE=text:Fletcher
+ORG:Gerlach-Hayes;Support
+END:VCARD

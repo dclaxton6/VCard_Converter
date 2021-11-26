@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Reede;Stephanie;;;
+EMAIL:creededu@histats.com
+GENDER:MALE
+RELATED;TYPE=parent;VALUE=text: Feeney and McClure"
+RELATED;TYPE=parent;VALUE=text:Rachel
+ORG:"Flatley;Research and Development
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Cubuzzi;Wiatt;;;
+EMAIL:kcubuzzibl@storify.com
+GENDER:FEMALE
+RELATED;TYPE=parent;VALUE=text: Swaniawski and Boehm"
+RELATED;TYPE=parent;VALUE=text:Lynnell
+ORG:"Boehm;Sales
+END:VCARD

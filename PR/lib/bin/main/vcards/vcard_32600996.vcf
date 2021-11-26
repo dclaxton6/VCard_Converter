@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Dr
+N:Stepney;Krishna;;;
+EMAIL:astepneyp5@cloudflare.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text: Trantow and Klein"
+RELATED;TYPE=parent;VALUE=text:Arlen
+ORG:"Kilback;Accounting
+END:VCARD

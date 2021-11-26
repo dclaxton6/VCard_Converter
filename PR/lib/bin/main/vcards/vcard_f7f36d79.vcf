@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.3
+TITLE:Honorable
+N:Casterot;Tammy;;;
+EMAIL:mcasterotfg@ehow.com
+GENDER:BIGENDER
+RELATED;TYPE=parent;VALUE=text:Nancey
+RELATED;TYPE=parent;VALUE=text:Moss
+ORG:Littel Group;Product Management
+END:VCARD
